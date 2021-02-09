@@ -4,8 +4,8 @@ before_deploy:
 
 deploy:
   provider: releases
-  github_token: \$GITHUB_TOKEN
-  file: RU.zip
+  github_token: "\$GITHUB_TOKEN"
+  file: "RU.zip"
   skip_cleanup: true
   on:
     tags: true
