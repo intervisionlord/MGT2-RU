@@ -4,8 +4,8 @@ before_deploy:
 
 deploy:
   provider: releases
-  api_key: "GITHUB OAUTH TOKEN"
-  file: "FILE TO UPLOAD"
+  api_key: $GITHUB_TOKEN
+  file: RU.zip
   skip_cleanup: true
   on:
     tags: true
