@@ -1299,7 +1299,7 @@ F2P
 Открыть / закрыть все игровые вкладки
 <b>Рождественский период</b><br>+50% к продажам
 <b>Летний спад</b><br>-30% от продаж
-In the <NAME> the following professions are the most effective: <color=blue><TEXT></color>.
+Для <NAME> наиболее эффективны следующие професии: <color=blue><TEXT></color>.
 <b>Скука фанатов</b><br>Ваши фанаты заскучали, потому что вы выпускаете много игр одного жанра (<color=blue><NAME></color>).<br>▪ -50% units sold<br>▪ No new fans.
 Сотруднику слишком тесно тут!
 Отключить иконки сотрудников
