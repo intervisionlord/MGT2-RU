@@ -1,0 +1,10 @@
+before_deploy:
+- cd ..
+- zip -r RU.zip RU/
+
+deploy:
+  provider: releases
+  github_token: \$GITHUB_TOKEN
+  file: "RU.zip"
+  on:
+    tags: true
