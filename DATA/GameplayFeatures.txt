@@ -22,6 +22,8 @@
 [DESC CZ]Funkce pauzy je užitečná pro hráče, kteří si potřebují udělat krátkou přestávku.
 [NAME KO]일시중지 기능
 [DESC KO]A pause function is useful for<br>the player to take a break.
+[NAME RU]Пауза
+[DESC RU]Функция паузы дает игрокам возможность<br>сделать перерыв.
 [DATE]JAN 1976
 [RES POINTS]0
 [PRICE]0
@@ -56,6 +58,8 @@
 [DESC CZ]Místní žebříček podporuje<br>větší zábavu mezi přáteli díky sázení o lepší skóre.
 [NAME KO]로컬 랭킹
 [DESC KO]Locally saved high scores provide<br>additional gaming fun among friends.
+[NAME RU]Локальная таблица рекордов
+[DESC RU]Локальная таблица рекордов дает больше удовольствия<br>от игры с друзьями.
 [DATE]FEB 1976
 [RES POINTS]25
 [PRICE]5000
@@ -90,6 +94,8 @@
 [DESC CZ]Skryté oblasti, truhly a tajné chodby<br>tvoří každou hru ještě více vzrušující.
 [NAME KO]숨겨진 지역(아이템) 기능
 [DESC KO]Hidden areas, chests and secret passages<br>make every game more exciting.
+[NAME RU]Секреты
+[DESC RU]Скрытые территории, сундуки и секретные сюжетные повороты<br>делают игру более захватывающей.
 [DATE]MAR 1977
 [RES POINTS]25
 [PRICE]5000
@@ -124,6 +130,8 @@
 [DESC CZ]Restartování v kontrolních bodech snižuje frustraci.
 [NAME KO]체크 포인트
 [DESC KO]Restarting at check points reduces frustration.
+[NAME RU]Чекпоинты
+[DESC RU]Перезапуск задания с чекпоинта снижает раздражение игроков при проигрыше.
 [DATE]APR 1977
 [RES POINTS]25
 [PRICE]5000
@@ -158,6 +166,8 @@
 [DESC CZ]Pokud je pro vás hra příliš obtížná,<br>můžete si pomoci s cheaty.
 [NAME KO]치트 기능
 [DESC KO]If a game is too difficult for you,<br>you can help yourself with cheat codes.
+[NAME RU]Чит-коды
+[DESC RU]Если игра слишком сложная, вы можете<br>облегчить себе прохождение использованием читов.
 [DATE]MAY 1978
 [RES POINTS]50
 [PRICE]10000
@@ -192,6 +202,8 @@
 [DESC CZ]Zadáním hesla můžete později<br>pokračovat ve hře na stejné pozici.
 [NAME KO]암호 저장 방식
 [DESC KO]With a password, you can resume the game<br>at a later time at the same position.
+[NAME RU]Сохранения под паролем
+[DESC RU]Введя пароль, вы можете<br>возобновить игру позже с того же места.
 [DATE]JUN 1978
 [RES POINTS]50
 [PRICE]10000
@@ -226,6 +238,8 @@
 [DESC CZ]Úkoly, které nesouvisejí s hlavním příběhem<br>udržují hráče více vytíženým.
 [NAME KO]서브 퀘스트
 [DESC KO]Quests that are not linked to the main story<br>keep the player additionally occupied.
+[NAME RU]Побочные мисии
+[DESC RU]Квесты, которые не связаны с основным сюжетом<br>занимают игрока на более длительное время.
 [DATE]JUL 1979
 [RES POINTS]75
 [PRICE]15000
@@ -260,6 +274,8 @@
 [DESC CZ]Levelování herní postavy může být velmi motivující.
 [NAME KO]캐릭터 성장
 [DESC KO]Leveling up the game character can be very motivating.
+[NAME RU]Прогресс персонажа
+[DESC RU]Повышение ровня персонажа дает больше мотивации в прохождении игры.
 [DATE]AUG 1979
 [RES POINTS]75
 [PRICE]15000
@@ -294,6 +310,8 @@
 [DESC CZ]Ukládání her umožňuje vrátit se ke hře v pozdější době.
 [NAME KO]게임 저장
 [DESC KO]게임 저장을 사용하면 나중에 게임을 다시 시작할 수 있습니다.
+[NAME RU]Сохранения
+[DESC RU]Сохранения позволяют продолжить игру с того же места позже.
 [DATE]SEP 1980
 [RES POINTS]100
 [PRICE]20000
@@ -328,6 +346,8 @@
 [DESC CZ]Splitscreen - Rozdělení obrazovky umožňuje soutěžení s kamarádem na jednom zařízení.
 [NAME KO]화면 분할 멀티플레이
 [DESC KO]Splitscreen Multiplayer makes it possible<br>to compete with your best friend.
+[NAME RU]Мультиплеер с разделением экрана
+[DESC RU]Позволяет соревноваться в прохождении с лучшим другом.
 [DATE]OCT 1980
 [RES POINTS]100
 [PRICE]20000
@@ -362,6 +382,8 @@
 [DESC CZ]Easter Eggs jsou zábavná nebo poučná tajemství ve hře.<br>Vyzývají hráče, aby prozkoumali celou hru.
 [NAME KO]이스터 에그
 [DESC KO]Easter Eggs are funny or informative secrets in the game.<br>They encourage players to explore the entire game.
+[NAME RU]Пасхалки
+[DESC RU]Пасхалки - забавные или информативные секреты в игре.<br>Они вдохновляют игроков на исследование игрового мира.
 [DATE]NOV 1981
 [RES POINTS]125
 [PRICE]25000
@@ -396,6 +418,8 @@
 [DESC CZ]Náhodné události příběhu vylepšují<br>hru, protože příběh není nikdy stejný.
 [NAME KO]무작위 스토리 이벤트
 [DESC KO]Random story events improve the<br>game as the story is not always the same.
+[NAME RU]Случайные игровые события
+[DESC RU]Случайные события улучшают повествование и делают сюжет многогранным.
 [DATE]DEC 1981
 [RES POINTS]125
 [PRICE]25000
@@ -430,6 +454,8 @@
 [DESC CZ]Opakovatelné úkoly jsou dobré pro<br>udržení hráče déle zaměstnaného.
 [NAME KO]반복 가능한 퀘스트
 [DESC KO]Repeatable quests are good for<br>keeping the player busy longer.
+[NAME RU]Повторяемые квесты
+[DESC RU]Повторяемые квесты полезны, когда нужно занять игрока на длительное время.
 [DATE]JAN 1982
 [RES POINTS]150
 [PRICE]30000
@@ -464,6 +490,8 @@
 [DESC CZ]Hráči se mohou lépe ztotožnit<br>s vlastní herní postavou.
 [NAME KO]캐릭터 커스터 마이징
 [DESC KO]The players can identify themselves<br>better with a self-created game character.
+[NAME RU]Редактор персонажа
+[DESC RU]Игроки могут лучше вживаться в роль,<br>когда сами создают своего персонажа.
 [DATE]FEB 1982
 [RES POINTS]150
 [PRICE]30000
@@ -498,6 +526,8 @@
 [DESC CZ]Tato funkce umožňuje rozšiřovat schopnosti<br>herní postavy dle požadavků hráče.
 [NAME KO]스킬 트리
 [DESC KO]This feature allows the abilities of the<br>character to be expanded according to the player's wishes.
+[NAME RU]Дерево навыков
+[DESC RU]Эта возможность позволяет игрокам развивать персонажа<br>в соответствии со своими предпочтениями.
 [DATE]MAR 1983
 [RES POINTS]175
 [PRICE]35000
@@ -532,6 +562,8 @@
 [DESC CZ]Výukový program pomáhá hráči rychleji pochopit funkce hry.
 [NAME KO]튜토리얼
 [DESC KO]A tutorial helps the player to understand<br>the functions of the game faster.
+[NAME RU]Обучение
+[DESC RU]Обучение позволяет игрокам быстрее<br>освоить игровые механики.
 [DATE]APR 1983
 [RES POINTS]175
 [PRICE]35000
@@ -566,6 +598,8 @@
 [DESC CZ]Hráči mají motivaci k dosažení všech úspěchů ve hře.
 [NAME KO]업적
 [DESC KO]The players are motivated to<br>achieve all successes in the game.
+[NAME RU]Достижения
+[DESC RU]Игроки более мотивированы<br>получить все достижения в игре.
 [DATE]MAY 1984
 [RES POINTS]200
 [PRICE]40000
@@ -600,6 +634,8 @@
 [DESC CZ]Mini hry nabízejí zcela<br>odlišnou hratelnost než hlavní hra.
 [NAME KO]미니 게임
 [DESC KO]Mini games offer a completely<br>different gameplay than the main game.
+[NAME RU]Мини-игры
+[DESC RU]Мини-игры предлагают геймплей отличный от основного.
 [DATE]JUN 1985
 [RES POINTS]220
 [PRICE]45000
@@ -634,6 +670,8 @@
 [DESC CZ]Tato funkce umožňuje<br>hrát hru znovu s novým obsahem.
 [NAME KO]새로운 게임 +
 [DESC KO]이 기능을 사용하면 새로운 콘텐츠로<br>게임을 다시 플레이 할 수 있습니다.
+[NAME RU]Новая игра+
+[DESC RU]Эта функция позволяет перепроходить<br>игру с новым контентом.
 [DATE]JUL 1986
 [RES POINTS]250
 [PRICE]50000
@@ -668,6 +706,8 @@
 [DESC CZ]Více možných zakončení hry<br>motivují hráče dohrát hru několikrát.
 [NAME KO]멀티 엔딩
 [DESC KO]여러 엔딩은 플레이어가<br>게임을 여러 번 플레이하도록 동기를 부여합니다.
+[NAME RU]Несколько концовок
+[DESC RU]Несколько сюжетных концовок мотивируют<br>игроков перепроходить игру несколько раз.
 [DATE]AUG 1987
 [RES POINTS]275
 [PRICE]55000
@@ -702,6 +742,8 @@
 [DESC CZ]Dynamická úroveň obtížnosti se automaticky<br>přizpůsobuje hráčovým schopnostem.
 [NAME KO]동적 난이도
 [DESC KO]동적 난이도는<br>플레이어의 능력에 따라 자동으로 조정됩니다.
+[NAME RU]Динамический уровень сложности
+[DESC RU]Уровень сложности динамически подстраивается<br>под возможности игрока.
 [DATE]SEP 1988
 [RES POINTS]300
 [PRICE]60000
@@ -736,6 +778,8 @@
 [DESC CZ]Tato funkce vám umožňuje hrát hru s několika lidmi v jedné místnosti.
 [NAME KO]랜 멀티플레이
 [DESC KO]This feature allows you to play<br>the game with several people in one room.
+[NAME RU]Мультиплеер LAN
+[DESC RU]Эта функция позволяет играть с<br>несколькими игроками по локальной сети.
 [DATE]OCT 1989
 [RES POINTS]320
 [PRICE]65000
@@ -770,6 +814,8 @@
 [DESC CZ]Editor úrovní umožňuje hráči vytvářet nové úrovně.
 [NAME KO]레벨 에디터
 [DESC KO]A level editor allows the player to create new levels.
+[NAME RU]Редактор уровней
+[DESC RU]Редактор позволяет игрокам создавать свои игровые уровни.
 [DATE]NOV 1990
 [RES POINTS]350
 [PRICE]70000
@@ -804,6 +850,8 @@
 [DESC CZ]Umožňuje připojíne více lidí<br>z různých míst světa přes insternet.
 [NAME KO]온라인 멀티 플레이
 [DESC KO]Online Multiplayer allows you to<br>play together via the Internet.
+[NAME RU]Онлайн мультиплеер
+[DESC RU]Позволяет играть с с другими игроками через интернет.
 [DATE]DEC 1991
 [RES POINTS]375
 [PRICE]75000
@@ -838,6 +886,8 @@
 [DESC CZ]Nastavitelné HUD dává hráčům více svobody<br>určit si, které informace si chtějí nechat zobrazovat na obrazovce.
 [NAME KO]조절식 HUD
 [DESC KO]An adjustable HUD gives players the freedom<br>to display only the information they want on the screen.
+[NAME RU]Настраиваемый интерфейс
+[DESC RU]Позволяет игрокам настраивать игровой<br>интерфейс в соответствии со своими предпочтениями.
 [DATE]JAN 1992
 [RES POINTS]400
 [PRICE]80000
@@ -872,6 +922,8 @@
 [DESC CZ]Tato funkce umožní rodičům ve hře<br>zakázat obsah pro dospělé.
 [NAME KO]조절 가능한 검열
 [DESC KO]This feature allows parents to<br>disable different content in the game.
+[NAME RU]Настройка цензуры
+[DESC RU]Эта функция позволяет родителям<br>отключать различный контент в игре.
 [DATE]FEB 1993
 [RES POINTS]420
 [PRICE]85000
@@ -906,6 +958,8 @@
 [DESC CZ]Tato funkce umožňuje hráči provádět morální<br>rozhodnutí, která ovlivňují herní svět.
 [NAME KO]사기 시스템
 [DESC KO]This feature allows the player to make moral<br>decisions that affect the game world.
+[NAME RU]Моральный выбор
+[DESC RU]Позволяет игрокам принимать решения, основанные<br>на моральном выборе, что влияет на игровой мир.
 [DATE]MAR 1994
 [RES POINTS]450
 [PRICE]90000
@@ -940,6 +994,8 @@
 [DESC CZ]Tato funkce umožňuje hráčům komunikovat mezi sebou pomocí sluchátek.
 [NAME KO]음성 채팅
 [DESC KO]With Voice-Over, players can communicate via headset.
+[NAME RU]Голосовая связь
+[DESC RU]Позволяет общаться в игре с использованием гарнитуры.
 [DATE]APR 1995
 [RES POINTS]475
 [PRICE]95000
@@ -974,6 +1030,8 @@
 [DESC CZ]Tato funkce umožňuje zobrazit záznam hry.
 [NAME KO]리플레이 기능
 [DESC KO]This function allows you to view a game recording.
+[NAME RU]Просмотр повтора
+[DESC RU]Позволяет пересмотреть запись<br>определенных моментов игры.
 [DATE]MAY 1995
 [RES POINTS]475
 [PRICE]95000
@@ -1008,6 +1066,8 @@
 [DESC CZ]Díky tomu, že může hráč měnit prostředí ve hře<br>svými interakcemi, vypadá herní svět<br>realističtěji.
 [NAME KO]역동적이고 파괴가능한 세계
 [DESC KO]Since the player can change the environment<br>with his actions, the game world<br>looks more realistic.
+[NAME RU]Разрушаемый мир
+[DESC RU]Своими действиями игроки могут менять окружение,<br>что придает игровому миру больше реалистичности.
 [DATE]JUN 1996
 [RES POINTS]500
 [PRICE]100000
@@ -1042,6 +1102,8 @@
 [DESC CZ]Díky této funkci je umožněno hráčům<br>přidávat do hry vlastní obsah.
 [NAME KO]모드 지원
 [DESC KO]With this feature it is possible to<br>add new content to the game.
+[NAME RU]Поддержка модов
+[DESC RU]С этой функцией игроки могут добавлять в игру новый контент.
 [DATE]JUL 1997
 [RES POINTS]520
 [PRICE]105000
@@ -1076,6 +1138,8 @@
 [DESC CZ]Hráči z celého světa bojují o přední příčky online žebříčku.
 [NAME KO]온라인 랭킹
 [DESC KO]Players from all over the world can<br>be entered in an online leaderboard.
+[NAME RU]Онлайн рейтинг
+[DESC RU]Игроки со всего мира могут попасть в таблицу лидеров.
 [DATE]AUG 1997
 [RES POINTS]520
 [PRICE]105000
@@ -1110,6 +1174,8 @@
 [DESC CZ]Interaktivní příběh již není psán<br>lineárně ba naopak vyvýjí se zcela neočekávaně.
 [NAME KO]대화형 스토리
 [DESC KO]An interactive story is no longer scripted<br>linearly and runs completely unexpectedly.
+[NAME RU]Интерактивный сюжет
+[DESC RU]Интерактивный сюжет, незаскриптованный и нелинейный.<br>Теперь может привести к неожиданным результатам в игре.
 [DATE]SEP 1998
 [RES POINTS]550
 [PRICE]110000
@@ -1144,6 +1210,8 @@
 [DESC CZ]Tato funkce minimalizuje čas načítání nových úrovní na minimum.
 [NAME KO]레벨 스트리밍
 [DESC KO]이 기능은 새 레벨의 로딩 시간을<br>최소한으로 줄입니다.
+[NAME RU]Бесшовные уровни
+[DESC RU]Сводит к минимуму время загрузки игровых уровней.
 [DATE]OCT 1999
 [RES POINTS]600
 [PRICE]115000
@@ -1178,6 +1246,8 @@
 [DESC CZ]V sandbox módu se může hrát hra zcela bez pravidel a vše je zdarma.
 [NAME KO]샌드박스 모드
 [DESC KO]In a sandbox mode the game can be played<br>freely and without strict rules.
+[NAME RU]Режим песочницы
+[DESC RU]В режиме песочницы можно играть в игру<br>более свободно игнорируя некторые правила.
 [DATE]NOV 2000
 [RES POINTS]620
 [PRICE]120000
@@ -1212,6 +1282,8 @@
 [DESC CZ]Tato funkce umožňuje<br>sdílet herní zážitek<br>na různých kanálech sociálních médií.
 [NAME KO]소설 미디어 통합
 [DESC KO]이 기능을 통해 다양한 소셜 미디어 채널에서 게임 경험을 공유할 수 있습니다.
+[NAME RU]Интеграция с соц. сетями
+[DESC RU]Эта функция позволяет игрокам делиться игровыми<br>успехами через различные каналы соц. сетей.
 [DATE]DEC 2005
 [RES POINTS]720
 [PRICE]150000
@@ -1246,6 +1318,8 @@
 [DESC CZ]Tuto funkci lze použít například ke<br>sdílení uložených pozic hry pro jiné platformy.
 [NAME KO]클라우드 서비스
 [DESC KO]This feature can be used, for example,<br>to share save games on different platforms.
+[NAME RU]Облачный сервис
+[DESC RU]Эта функция позволяет переносить сохранения игры между различными платформами.
 [DATE]JAN 2012
 [RES POINTS]860
 [PRICE]220000
@@ -1280,6 +1354,8 @@
 [DESC CZ]Díky rozšířené realitě lze navzájem<br>kombinovat skutečný svět s herním světem.
 [NAME KO]증강 현실 지원
 [DESC KO]With Argumented Reality the real world<br>and the game world can be combined.
+[NAME RU]Дополненная реальность
+[DESC RU]С этой функцией можно совмещать реальный мир и игровой.
 [DATE]FEB 2015
 [RES POINTS]920
 [PRICE]250000
@@ -1314,6 +1390,8 @@
 [DESC CZ]Díky dennímu a nočnímu cyklusu<br>bude herní svět vypadat více realističtěji.
 [NAME KO]낮-밤 주기
 [DESC KO]A day-night cycle looks good and<br>makes the game world look more real.
+[NAME RU]Смена суток
+[DESC RU]Позволяет сменять день и ночь в игре<br>и делает игровой мир более реалистичным.
 [DATE]MAR 1983
 [RES POINTS]175
 [PRICE]35000
@@ -1348,6 +1426,8 @@
 [DESC CZ]Efekty počasí vylepšují vizuální stránku hry.
 [NAME KO]날씨 효과
 [DESC KO]Weather effects enhance the game visually.
+[NAME RU]Погода
+[DESC RU]Эффекты погоды улучшают визульную<br>составляющую игрового мира.
 [DATE]APR 1994
 [RES POINTS]450
 [PRICE]90000
@@ -1382,6 +1462,8 @@
 [DESC CZ]Filmové scény jsou velkým<br>plusem po vizuální stránce hry<br>a zaroveň pomáhají rozvíjet příběh hry.
 [NAME KO]컷 씬
 [DESC KO]Cut scenes are perfect for telling<br>the story of the game.
+[NAME RU]Кат-сцены
+[DESC RU]Прекрасно подходят для сюжетного повествования в игре.
 [DATE]MAY 1987
 [RES POINTS]275
 [PRICE]55000
@@ -1416,6 +1498,8 @@
 [DESC CZ]Díky této funkci již není hráč nucen číst ani psát všechen text v chatu.
 [NAME KO]음성 출력
 [DESC KO]With this feature the player is no，<br>longer forced to read all texts.
+[NAME RU]Озвучка
+[DESC RU]C этой опцией игрку больше не<br>придется читать все тексты.
 [DATE]JUN 1985
 [RES POINTS]220
 [PRICE]45000
@@ -1450,6 +1534,8 @@
 [DESC CZ]Dynamická hudba se mění v závislosti na určitých scénách ve hře.
 [NAME KO]달라지는 음악
 [DESC KO]A dynamic music changes depending<br>on the situation in the game.
+[NAME RU]Динамическая музыка
+[DESC RU]Музыка, меняющаяся в зависимости<br>от игровой ситуации.
 [DATE]JUL 1988
 [RES POINTS]300
 [PRICE]60000
@@ -1466,9 +1552,9 @@
 [NAME GE]Orchestral Soundtrack
 [NAME CH]管弦乐配音
 [NAME TU]Orkestra Müziği
-[DESC EN]Orchestral music has a strong effect on the player. 
+[DESC EN]Orchestral music has a strong effect on the player.
 [DESC GE]Orchestrale Musik wirkt stark auf den Spieler ein.
-[DESC CH]管弦乐对玩家有很大的影响. 
+[DESC CH]管弦乐对玩家有很大的影响.
 [DESC TU]Orkestra müziği, oyuncu üzerinde güçlü bir etkiye sahiptir.
 [NAME FR]Bande sonore orchestrale
 [DESC FR]La musique orchestrale a un fort effet sur le joueur.
@@ -1483,7 +1569,9 @@
 [NAME CZ]Orchestrální soundtrack
 [DESC CZ]Orchestrální hudba má na hráče silný vliv.
 [NAME KO]오케스트라 사운드트랙
-[DESC KO]Orchestral music has a strong effect on the player. 
+[DESC KO]Orchestral music has a strong effect on the player.
+[NAME RU]Оркестровый саундтрек
+[DESC RU]Оказывает существенное эмоциональное влияние на игрока.
 [DATE]AUG 1992
 [RES POINTS]400
 [PRICE]80000
@@ -1518,6 +1606,8 @@
 [DESC CZ]Tato funkce umožňuje<br>ovládat hru pomocí klávesnice.
 [NAME KO]키보드 지원
 [DESC KO]This feature allows you to<br>control the game with a keyboard.
+[NAME RU]Поддержка клавиатуры
+[DESC RU]Позволяет управлять игрой с клавиатуры.
 [DATE]JAN 1976
 [RES POINTS]0
 [PRICE]0
@@ -1552,6 +1642,8 @@
 [DESC CZ]Tato funkce umožňuje<br>ovládat hru pomocí ovladače.
 [NAME KO]컨트롤러 지원
 [DESC KO]This feature allows you to<br>control the game with a game controller.
+[NAME RU]Поддержка контроллера
+[DESC RU]Позволяет использовать игровой контроллер в игре.
 [DATE]JAN 1976
 [RES POINTS]25
 [PRICE]5000
@@ -1586,6 +1678,8 @@
 [DESC CZ]Díky této funkci lze objekty<br>na obrazovce střílet pomocí<br>elektronické napodobeniny pistole.
 [NAME KO]레이저 총 컨트롤러 지원
 [DESC KO]With this feature, objects on the<br>screen can be shot with a toy gun.
+[NAME RU]Поддержка лазерного пистолета
+[DESC RU]С этой функцией объекты на экране можно отстреливать<br>с использованием игрушечного пистолета.
 [DATE]APR 1983
 [RES POINTS]175
 [PRICE]35000
@@ -1620,6 +1714,8 @@
 [DESC CZ]Tato funkce umožňuje<br>ovládat hru pomocí myši.
 [NAME KO]마우스 지원
 [DESC KO]This feature allows you to control<br>the game with a computer mouse.
+[NAME RU]Поддержка мыши
+[DESC RU]Позволяет использовать компьютерную мышь в игре.
 [DATE]MAY 1984
 [RES POINTS]200
 [PRICE]40000
@@ -1654,6 +1750,8 @@
 [DESC CZ]Tato funkce umožňuje hráči konfigurovat své preferované vstupní schéma.
 [NAME KO]조절 가능한 컨트롤
 [DESC KO]이 기능을 통해 플레이어는 자신이 원하는 입력 장치를 직접 구성할 수 있습니다.
+[NAME RU]Настраиваемое управление
+[DESC RU]Позволяет настроить управление в<br>игре согласно предпочтениям игрока.
 [DATE]JUN 1989
 [RES POINTS]320
 [PRICE]65000
@@ -1670,8 +1768,8 @@
 [NAME GE]Lenkrad Support
 [NAME CH]支持方向盘
 [NAME TU]Direksiyon Desteği
-[DESC EN]The support of steering wheels is<br>especially popular in racing games. 
-[DESC GE]Die Unterstützung von Lenkrädern<br>ist vor allem bei Rennsimulationen beliebt. 
+[DESC EN]The support of steering wheels is<br>especially popular in racing games.
+[DESC GE]Die Unterstützung von Lenkrädern<br>ist vor allem bei Rennsimulationen beliebt.
 [DESC CH]方向盘的支持<br>对赛车游戏体验很好.
 [DESC TU]Direksiyon desteği, özellikle yarış oyunlarında<br> popülerdir.
 [NAME FR]Support Volant
@@ -1688,6 +1786,8 @@
 [DESC CZ]Podpora volantů je obzvláště důležitá při hraní závodních hrách.
 [NAME KO]휠 지원
 [DESC KO]The support of steering wheels is<br>especially popular in racing games.
+[NAME RU]Поддержка руля
+[DESC RU]Позволяет игрть с использованием руля,<br>особенно популярно в гоночных играх.
 [DATE]JUL 1990
 [RES POINTS]350
 [PRICE]70000
@@ -1722,6 +1822,8 @@
 [DESC CZ]Vynucená zpětná vazba je technika zajišťující<br>zprávu o veškerých událostech a dění ve hře.
 [NAME KO]진동 지원
 [DESC KO]Force feedback is a technique for providing<br>mechanical feedback on events in the game.
+[NAME RU]Обратная связь
+[DESC RU]Предоставляет механический отклик на события в игре.
 [DATE]AUG 1992
 [RES POINTS]400
 [PRICE]80000
@@ -1756,6 +1858,8 @@
 [DESC CZ]Tato funkce vám umožňuje hrát hru s moderními herními ovladači.
 [NAME KO]최신 컨트롤러 지원
 [DESC KO]This feature allows you to play the game with modern game controllers.
+[NAME RU]Поддержкаь современных контроллеров
+[DESC RU]Позволяет играть с использованием современных игровых контроллеров.
 [DATE]SEP 1993
 [RES POINTS]420
 [PRICE]85000
@@ -1790,6 +1894,8 @@
 [DESC CZ]Virtuální realita představuje zcela nový herní zážitek.
 [NAME KO]VR 헬멧 지원
 [DESC KO]Virtual Reality allows a completely new gaming experience.
+[NAME RU]Поддержка VR шлема
+[DESC RU]Виртуальная реальность предлагает новый игровой опыт.
 [DATE]OCT 1994
 [RES POINTS]450
 [PRICE]90000
@@ -1824,6 +1930,8 @@
 [DESC CZ]Tato funkce umožňuje ovládat hru pomocí pohybových ovladačů.
 [NAME KO]모션 컨트롤러 지원
 [DESC KO]This feature allows you to control<br>the game with motion controllers.
+[NAME RU]Контроллер захвата движений
+[DESC RU]Технология, позволяющая управлять игрой с<br>использованием контроллеров с функцией захвата движений.
 [DATE]FEB 2006
 [RES POINTS]740
 [PRICE]160000
@@ -1858,6 +1966,8 @@
 [DESC CZ]Vstupní zařízení, jako jsou kytary nebo bicí, jsou obzvláště populární v hudebních a rytmických hrách.
 [NAME KO]악기 지원
 [DESC KO]Input devices such as guitars or drums are<br>especially popular in music and rhythm games.
+[NAME RU]Поддержка инструментов
+[DESC RU]Поддержка устройств ввода, таких как гитары<br>или ударные особенно популярны в музыкальных играх.
 [DATE]DEC 2007
 [RES POINTS]760
 [PRICE]170000
@@ -1892,6 +2002,8 @@
 [DESC CZ]Tato funkce umožňuje ovládat hru celým svým tělem.
 [NAME KO]모션 카메라 지원
 [DESC KO]This feature allows you to control<br>the game with your entire body.
+[NAME RU]Камера захвата движений
+[DESC RU]Эта функция позволяет управлять игрой двигаясь всем телом.
 [DATE]JAN 2009
 [RES POINTS]800
 [PRICE]190000
