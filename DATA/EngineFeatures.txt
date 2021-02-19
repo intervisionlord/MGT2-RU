@@ -1003,14 +1003,14 @@
 [NAME GE]32 Bit Sound
 [NAME CH]32位声音
 [NAME TU]32 Bit Ses
-[DESC EN]The 32-bit sound technology allows to play<br>high-quality music and sound effects. 
+[DESC EN]The 32-bit sound technology allows to play<br>high-quality music and sound effects.
 [DESC GE]Das Spielgeschehen wird mit klaren Soundeffekten<br>und aufwendigen Musikstücken untermalt.
 [DESC CH]32位的声音技术可以播放<br>高质量的音乐和声音效果.
 [DESC TU]32-bit ses teknolojisi, yüksek kaliteli müzik ve ses efektlerinin<br> çalınmasına izin verir.
 [NAME FR]Son 32 Bits
 [DESC FR]La technologie audio 32 bits permet de jouer<br>musique et effets sonores de haute qualité.
 [NAME PB]Som de 32 bits
-[DESC PB]A tecnologia de som de 32 bits permite reproduzir<br>músicas e efeitos sonoros de alta qualidade. 
+[DESC PB]A tecnologia de som de 32 bits permite reproduzir<br>músicas e efeitos sonoros de alta qualidade.
 [NAME CT]32位音效
 [DESC CT]32位音效技術可播放<br>高質素的聲音
 [NAME HU]32 bites hang
@@ -1020,7 +1020,9 @@
 [NAME CZ]32bitový zvuk
 [DESC CZ]32bitová zvuková technologie umožňuje přehrávat<br>vysoce kvalitní hudbu a zvukové efekty.
 [NAME KO]32비트 사운드
-[DESC KO]The 32-bit sound technology allows to play<br>high-quality music and sound effects. 
+[DESC KO]The 32-bit sound technology allows to play<br>high-quality music and sound effects.
+[NAME RU]32-битный звук
+[DESC RU]32-битная звуковая технология позволяет воспроизводить<br>музыку и звуковые эффекты высокого качества.
 [DATE]MAR 1992
 [RES POINTS]800
 [PRICE]160000
@@ -1056,6 +1058,8 @@
 [DESC CZ]Vylepšená 32bitová zvuková technologie se zlepšeným výkonem.
 [NAME KO]고급 32비트 사운드
 [DESC KO]An improved 32 bit sound technology with improved performance.
+[NAME RU]Продвинутый 32-битный звук
+[DESC RU]Улучшенная 32-битная технология с повышенной производительностью.
 [DATE]NOV 1998
 [RES POINTS]1100
 [PRICE]220000
@@ -1091,6 +1095,8 @@
 [DESC CZ]Tato technika umožňuje použití více<br>reproduktorů, které obklopují posluchače.
 [NAME KO]스테레오 사운드 기술
 [DESC KO]This technique allows the use of<br>multiple speakers that surround the listener.
+[NAME RU]Объемный звук
+[DESC RU]Эта технология позволяет использовать несколько<br>динамиков, окружающих пользователя.
 [DATE]OCT 2003
 [RES POINTS]1350
 [PRICE]270000
@@ -1126,6 +1132,8 @@
 [DESC CZ]Vícekanálová technologie, která dokáže přehrávat realistické 3D zvuky.
 [NAME KO]3D 사운드 3.1
 [DESC KO]A multi-channel technology that can play realistic 3D sounds.
+[NAME RU]3D звук 3.1
+[DESC RU]Многоканальная технология, позволяющая воспроизводить трехмерный звук.
 [DATE]MAR 2007
 [RES POINTS]1550
 [PRICE]310000
@@ -1161,6 +1169,8 @@
 [DESC CZ]Vylepšená technologie 3D zvuku s více kanály.
 [NAME KO]3D 사운드 5.1
 [DESC KO]An improved 3D sound technology with more channels.
+[NAME RU]3D звук 5.1
+[DESC RU]Улучшенная трехмерная технология звука<br>с большим количеством каналов.
 [DATE]JUL 2010
 [RES POINTS]1700
 [PRICE]340000
@@ -1196,6 +1206,8 @@
 [DESC CZ]S touto 3D zvukovou technologií lze přehrávat<br>realistické efekty a hudbu ve velmi vysoké zvukové kvalitě.
 [NAME KO]3D 사운드 7.1
 [DESC KO]With this 3D sound technology, realistic<br>effects and music can be played in very high sound quality.
+[NAME RU]3D звук 7.1
+[DESC RU]С этой технологичей трехмерного звука возможно воспроизведение<br>реалитстичных эффектов в наилучшем качестве.
 [DATE]FEB 2014
 [RES POINTS]1900
 [PRICE]380000
@@ -1231,6 +1243,8 @@
 [DESC CZ]Díky této technologii lze zvuky a hudbu<br>přehrávat v bezkonkurenční kvalitě.
 [NAME KO]실사 3D 사운드
 [DESC KO]With this technology, sounds and music<br>can be played in unprecedented quality.
+[NAME RU]Реалистичный 3D звук
+[DESC RU]С этой технологичей звуки и музыка<br>могут воспроизводиться с непревзойденным качеством.
 [DATE]DEC 2018
 [RES POINTS]2100
 [PRICE]420000
@@ -1266,6 +1280,8 @@
 [DESC CZ]Velmi jednoduchá umělá inteligence<br>reagující na akce hráče.
 [NAME KO]초기 AI [레벨 1]
 [DESC KO]A very simple artificial intelligence<br>that reacts to actions of the player.
+[NAME RU]Простой ИИ
+[DESC RU]Очень простой искуственный интеллект,<br>реагирующий на поведение игрока.
 [DATE]JAN 1976
 [RES POINTS]0
 [PRICE]0
@@ -1301,6 +1317,8 @@
 [DESC CZ]Mírně vylepšená umělá inteligence<br>, která dokáže reagovat na hráče.
 [NAME KO]초기 AI [레벨 2]
 [DESC KO]A slightly improved artificial intelligence,<br>which reacts to the player's actions.
+[NAME RU]Простой ИИ [Ур. 2]
+[DESC RU]Немного улучшенный ИИ,<br>реагирующий на действия игрока.
 [DATE]JAN 1980
 [RES POINTS]200
 [PRICE]40000
@@ -1336,6 +1354,8 @@
 [DESC CZ]Tato jednoduchá umělá inteligence dokáže<br>zpracovat několik akcí současně.
 [NAME KO]초기 AI [레벨 3]
 [DESC KO]This simple artificial intelligence can<br>process several actions simultaneously.
+[NAME RU]Простой ИИ [Ур. 3]
+[DESC RU]Этот простой ИИ может выполнять несколько действий одновременно.
 [DATE]JAN 1984
 [RES POINTS]400
 [PRICE]80000
@@ -1371,6 +1391,8 @@
 [DESC CZ]Díky této umělé inteligenci mohou soupeři<br>na hráče reagovat mnohem lépe.
 [NAME KO]개선된 AI [레벨 1]
 [DESC KO]With this artificial intelligence the opponents<br>can react much better to the player.
+[NAME RU]Улучшенный ИИ [Ур. 1]
+[DESC RU]С этим ИИ соперники лучше<br>реагируют на игрока.
 [DATE]JAN 1988
 [RES POINTS]600
 [PRICE]120000
@@ -1406,6 +1428,8 @@
 [DESC CZ]V této verzi umělé inteligence byl přidán přijatelný systém hledání cest k vyřešení úkonů.
 [NAME KO]개선된 AI [레벨 2]
 [DESC KO]In this version of artificial intelligence an<br>acceptable pathfinding system was added.
+[NAME RU]Улучшенный ИИ [Ур. 2]
+[DESC RU]В этой версии ИИ добавлена достаточно приемлемая<br>систмема поиска маршрута.
 [DATE]JAN 1992
 [RES POINTS]800
 [PRICE]160000
@@ -1441,6 +1465,8 @@
 [DESC CZ]S touto verzí umělé inteligence lze poprvé simulovat realistické chování soupeře.
 [NAME KO]개선된 AI [레벨 3]
 [DESC KO]With this version of artificial intelligence,<br>a realistic opponent behavior can be simulated for the first time.
+[NAME RU]Улучшенный ИИ [Ур. 3]
+[DESC RU]С этой версией ИИ можно симулировать<br>реалистичноеповедение противников (на первое время).
 [DATE]JAN 1996
 [RES POINTS]1000
 [PRICE]200000
@@ -1476,6 +1502,8 @@
 [DESC CZ]Efektivní systém hledání cest k vyřešení úkonů a rychle vypočítané nepřátelské<br>akce dělají z této verze pokročilou umělou inteligenci.
 [NAME KO]고급 AI [레벨 1]
 [DESC KO]An effective pathfinding system and quickly calculated enemy actions<br>make this version an advanced artificial intelligence.
+[NAME RU]Продвинутый ИИ [Ур. 1]
+[DESC RU]Эффективный поиск маршрутов и быстро рассчитываемые действия врагов<br>делают эту версию ИИ такой продвинутой.
 [DATE]JAN 2000
 [RES POINTS]1200
 [PRICE]240000
@@ -1511,6 +1539,8 @@
 [DESC CZ]Díky této pokročilé umělé inteligenci se <br> protivníci stávají pro hráče vážnými oponenty.
 [NAME KO]고급 AI [레벨 2]
 [DESC KO]With this advanced artificial intelligence,<br>opponents become serious opponents for the player.
+[NAME RU]Продвинутый ИИ [Ур. 2]
+[DESC RU]С этой версией ИИ оппоненты<br>становятся серьезными противниками для игрока.
 [DATE]JAN 2004
 [RES POINTS]1400
 [PRICE]280000
@@ -1546,6 +1576,8 @@
 [DESC CZ]Tato verze umělé inteligence umožňuje předem vypočítat několik akcí. <br> To opět zvyšuje inteligenci protivníků.
 [NAME KO]고급 AI [레벨 3]
 [DESC KO]This version of artificial intelligence allows to calculate<br>several actions in advance.<br>This increases the intelligence of the opponents again.
+[NAME RU]Продвинутый ИИ [Ур. 3]
+[DESC RU]Эта версия ИИ позволяет просчитывать несколько действий сразу.<br>Это повышает "разумность" противников.
 [DATE]JUN 2008
 [RES POINTS]1600
 [PRICE]320000
@@ -1581,6 +1613,8 @@
 [DESC CZ]Tato umělá inteligence dokáže porazit i vyškolenou osobu a to i různými způsoby.
 [NAME KO]최고급 AI [레벨 1]
 [DESC KO]This artificial intelligence can defeat<br>even a trained person in various ways.
+[NAME RU]Крайне продвинутый ИИ [Ур. 1]
+[DESC RU]Этот ИИ может обороняться несколькими способами.
 [DATE]JAN 2012
 [RES POINTS]1800
 [PRICE]360000
@@ -1616,6 +1650,8 @@
 [DESC CZ]Tato umělá inteligence <br> perfektně reaguje na akce hráče.
 [NAME KO]최고급 AI [레벨 2]
 [DESC KO]This artificial intelligence responds<br>perfectly to the player's actions.
+[NAME RU]Крайне продвинутый ИИ [Ур. 2]
+[DESC RU]Этот ИИ прекрасно реагирует<br>на действия игрока.
 [DATE]JAN 2016
 [RES POINTS]2000
 [PRICE]400000
@@ -1651,6 +1687,8 @@
 [DESC CZ]Tato vysoce vyladěná umělá inteligence se umí chovat přesně jako člověk.
 [NAME KO]최고급 AI 레벨 3]
 [DESC KO]This highly developed artificial intelligence<br>behaves exactly like a human being.
+[NAME RU]Крайне продвинутый ИИ [Ур. 3]
+[DESC RU]Этот высокотехнологичный ИИ ведет себя<br>как человек.
 [DATE]JAN 2020
 [RES POINTS]2200
 [PRICE]440000
@@ -1686,6 +1724,8 @@
 [DESC CZ]S touto jednoduchou fyzikou <br> jsou detekovány pouze kolize několika objektů.
 [NAME KO]초기 물리학 [레벨 1]
 [DESC KO]With this simple physics function<br>only collisions of a few objects are detected.
+[NAME RU]Простая физика [Ур. 1]
+[DESC RU]С этой простой физической функцией определяются<br>столкновения нескольких объектов.
 [DATE]JAN 1976
 [RES POINTS]0
 [PRICE]0
@@ -1721,6 +1761,8 @@
 [DESC CZ]A slightly improved physics, which<br>detects collisions more accurately and faster.
 [NAME KO]초기 물리학 [레벨 2]
 [DESC KO]A slightly improved physics, which<br>detects collisions more accurately and faster.
+[NAME RU]Простая физика [Ур. 2]
+[DESC RU]Немного улучшенная физика, которая<br>просчитывает столкновения лучше и быстрее.
 [DATE]JUN 1980
 [RES POINTS]200
 [PRICE]40000
@@ -1756,6 +1798,8 @@
 [DESC CZ]S touto verzí lze detekovat kolize v trojrozměrném prostoru.
 [NAME KO]초기 물리학 [레벨 3]
 [DESC KO]With this version collisions in<br>three dimensional space can be detected.
+[NAME RU]Простая физика [Ур. 3]
+[DESC RU]С этой физикой возможно определение<br>стокновений в трехмерном пространстве.
 [DATE]JUL 1984
 [RES POINTS]400
 [PRICE]80000
@@ -1791,6 +1835,8 @@
 [DESC CZ]Vylepšený fyzikální Engine s novými funkcemi, jako je gravitace, dělá fyziku <br> ve hrách poprvé realistickou.
 [NAME KO]개선된 물리학 [레벨 1]
 [DESC KO]An improved physics engine with new features,<br>such as gravity, makes physics<br>in games look realistic for the first time.
+[NAME RU]Улучшенная физика [Ур. 1]
+[DESC RU]Улучшенный физический движок с новыми возможностями, такими как<br>гравитация, позволяет физике в игре выглядеть<br>двольно реалистично на первое время.
 [DATE]AUG 1988
 [RES POINTS]600
 [PRICE]120000
@@ -1826,6 +1872,8 @@
 [DESC CZ]S touto verzí fyzikálního Enginu lze provést ještě více výpočtů objektů současně.
 [NAME KO]개선된 물리학 [레벨 2]
 [DESC KO]With this version of the physics engine,<br>even more objects can be calculated at the same time.
+[NAME RU]Улучшенная физика [Ур. 2]
+[DESC RU]С этой версией физического движка возможен<br>просчет нескольких объектов одновременно.
 [DATE]SEP 1992
 [RES POINTS]800
 [PRICE]160000
@@ -1861,6 +1909,8 @@
 [DESC CZ]Nové funkce Enginu umožňují simulovat ještě realističtější fyziku ve hrách.
 [NAME KO]개선된 물리학 [레벨 3]
 [DESC KO]New functions of the engine allow to<br>simulate an even more realistic physics in games.
+[NAME RU]Улучшенная физика [Ур. 3]
+[DESC RU]Новые функции движка позволяют<br>лучше имитировать еще больше физических явлений в игре.
 [DATE]OCT 1996
 [RES POINTS]1000
 [PRICE]200000
@@ -1896,6 +1946,8 @@
 [DESC CZ]Nové funkce, jako je fyzika rozlité kapaliny a její výpočet, <br> dělají z této verze pokročilý fyzikální Engine.
 [NAME KO]고급 물리학 [레벨 1]
 [DESC KO]New features such as physically calculated liquids,<br>make this version an advanced physics engine.
+[NAME RU]Продвинутая физика [Ур. 1]
+[DESC RU]Новые возможности, такие как просчет жидкостей<br>выводят эту версию движка на продвинутый уровень.
 [DATE]NOV 2000
 [RES POINTS]1200
 [PRICE]240000
@@ -1931,6 +1983,8 @@
 [DESC CZ]Optimalizací všech funkcí lze nyní fyzicky vypočítat všechny objekty ve světě hry <br> realističtěji.
 [NAME KO]고급 물리학 [레벨 2]
 [DESC KO]By optimizing all functions, all objects in the game world<br>can now be physically calculated simultaneously.
+[NAME RU]Продвинутая физика [Ур. 2]
+[DESC RU]Благодаря оптимизации всех функций, все игровые объекты в игре<br>теперь могут просчитываться одновременно.
 [DATE]DEC 2004
 [RES POINTS]1400
 [PRICE]280000
@@ -1966,6 +2020,8 @@
 [DESC CZ]Díky rozsáhlé knihovně fyzikálních funkcí vypadá fyzika ve hrách realisticky.
 [NAME KO]고급 물리학 [레벨 3]
 [DESC KO]An extensive library of physics functions<br>makes the physics in games look realistic.
+[NAME RU]Продвинутая физика [ур. 3]
+[DESC RU]Дополнительные библиотеки физических функций<br>делают игровую физику реалистичной.
 [DATE]MAR 2008
 [RES POINTS]1600
 [PRICE]320000
@@ -2001,6 +2057,8 @@
 [DESC CZ]Tento fyzikální Engine dokáže vypočítat<br>až tisíce částic fyzicky správně.
 [NAME KO]최고급 물리학 [레벨 1]
 [DESC KO]This physics engine can even calculate<br>thousands of particles physically correct.
+[NAME RU]Крайне продвинутая физика [Ур. 1]
+[DESC RU]Этот физический движок может одновременно<br>просчитывать тысячи частиц.
 [DATE]JUN 2012
 [RES POINTS]1800
 [PRICE]360000
@@ -2018,8 +2076,8 @@
 [NAME GE]Hochentwickelte Physik [Level 2]
 [NAME CH]先进的物理效果 [Level 2]
 [NAME TU]Son Derece Gelişmiş Fizik [Seviye 2]
-[DESC EN]The optimized version of the advanced physics engine,<br>contains additional features that simulate<br>an even more realistic physics.  
-[DESC GE]Die optimierte Version der hochentwickelten<br>Physik-Engine, führt neue Funktionen ein,<br>welche eine noch realistischere Physik simulieren. 
+[DESC EN]The optimized version of the advanced physics engine,<br>contains additional features that simulate<br>an even more realistic physics.
+[DESC GE]Die optimierte Version der hochentwickelten<br>Physik-Engine, führt neue Funktionen ein,<br>welche eine noch realistischere Physik simulieren.
 [DESC CH]先进物理引擎的优化版本，<br>包含以下附加的功能<br>模拟更逼真的物理环境.
 [DESC TU]Gelişmiş fizik motorunun optimize edilmiş versiyonu,<br> daha gerçekçi bir fiziği<br> simüle eden ek özellikler içerir.
 [NAME FR]Physique très avancée [niveau 2]
@@ -2035,7 +2093,9 @@
 [NAME CZ]Vysoce pokročilá fyzika [Stupeň 2]
 [DESC CZ]Optimalizovaná verze pokročilého fyzikálního enginu<br>obsahuje další funkce, které simulují<br>ještě realističtější fyziku.
 [NAME KO]최고급 물리학 [레벨 2]
-[DESC KO]The optimized version of the advanced physics engine,<br>contains additional features that simulate<br>an even more realistic physics.  
+[DESC KO]The optimized version of the advanced physics engine,<br>contains additional features that simulate<br>an even more realistic physics.
+[NAME RU]Крайне продвинутая физика [Ур. 2]
+[DESC RU]Оптимизированная версия продвинутого физического движка<br>содержит дополнительные особенности, которые<br>имитирую более реалистичную физику.
 [DATE]MAY 2016
 [RES POINTS]2000
 [PRICE]400000
@@ -2071,6 +2131,8 @@
 [DESC CZ]S touto verzí lze<br>fyzicky správně vypočítat miliony objektů současně.
 [NAME KO]최고급 물리학 [레벨 3]
 [DESC KO]With this version millions of objects can<br>be calculated physically correct at the same time.
+[NAME RU]Крайне продвинутая физика [Ур. 3]
+[DESC RU]В этой версии могут одновременно просчитываться<br>миллионы игровых объектов.
 [DATE]JUN 2020
 [RES POINTS]2200
 [PRICE]440000

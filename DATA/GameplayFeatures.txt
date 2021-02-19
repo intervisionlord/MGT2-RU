@@ -1,0 +1,1941 @@
+﻿[ID]0
+[TYP]4
+[NAME EN]Pause Function
+[NAME GE]Pause Funktion
+[NAME CH]暂停
+[NAME TU]Duraklatma İşlevi
+[DESC EN]A pause function is useful for<br>the player to take a break.
+[DESC GE]Eine Pause Funktion ist nützlich,<br>damit der Spieler eine Pause einlegen kann.
+[DESC CH]暂停功能可以<br>允许玩家休息.
+[DESC TU]Oynatıcının ara vermesi için <br> duraklatma işlevi yararlıdır.
+[NAME FR]Fonction Pause
+[DESC FR]Une fonction de pause est utile pour<br>le joueur qui veut se changer les esprits.
+[NAME PB]Função de pausa
+[DESC PB]A função de pause é útil para<br>o jogador fazer uma pausa.
+[NAME CT]暫停功能
+[DESC CT]暫停功能在<br>玩家休息時很有用
+[NAME HU]Szünet funkció
+[DESC HU]A szünet funkció arra alkalmas, hogy ha a játékos szüneteltni szeretné a játékát.
+[NAME ES]Función de pausa
+[DESC ES]Una función de pausa es útil para<br>que el jugador se tome un descanso.
+[NAME CZ]Funkce pozastavení
+[DESC CZ]Funkce pauzy je užitečná pro hráče, kteří si potřebují udělat krátkou přestávku.
+[NAME KO]일시중지 기능
+[DESC KO]A pause function is useful for<br>the player to take a break.
+[DATE]JAN 1976
+[RES POINTS]0
+[PRICE]0
+[DEV COSTS]2000
+[PIC]
+[GAMEPLAY]5
+[GRAPHIC]0
+[SOUND]0
+[TECH]5
+
+[ID]1
+[TYP]4
+[NAME EN]Local High Scores
+[NAME GE]Lokale Highscores
+[NAME CH]本服排行榜
+[NAME TU]Yerel En Yüksek Puanlar
+[DESC EN]Locally saved high scores provide<br>additional gaming fun among friends.
+[DESC GE]Lokal gespeicherte Highscores fördern den Wettbewerb.
+[DESC CH]可以用来保存本服最高分<br>增加朋友开黑的竞争乐趣.
+[DESC TU]Yerel olarak kaydedilen yüksek puanlar, arkadaşlar arasında<br> ek oyun eğlencesi sağlar.
+[NAME FR]Classement Local
+[DESC FR]Les scores élevés enregistrés localement fournissent<br>du plaisir de jeu supplémentaire entre amis.
+[NAME PB]Melhor pontuação local
+[DESC PB]Pontuações mais altas salvas localmente fornecem<br>diversão adicional no jogo entre amigos.
+[NAME CT]本機高分榜
+[DESC CT]在本機儲存高分榜<br>在朋友間提供額外的樂趣
+[NAME HU]Helyi rekordok
+[DESC HU]A helyileg elmentett magas pontszámok további játékélményt nyújtanak a barátok körében.
+[NAME ES]Puntuaciones altas locales
+[DESC ES]Las puntuaciones altas guardadas localmente proporcionan<br>Diversión de juego adicional entre amigos.
+[NAME CZ]Offline žebříček
+[DESC CZ]Místní žebříček podporuje<br>větší zábavu mezi přáteli díky sázení o lepší skóre.
+[NAME KO]로컬 랭킹
+[DESC KO]Locally saved high scores provide<br>additional gaming fun among friends.
+[DATE]FEB 1976
+[RES POINTS]25
+[PRICE]5000
+[DEV COSTS]3000
+[PIC]
+[GAMEPLAY]8
+[GRAPHIC]0
+[SOUND]0
+[TECH]2
+
+[ID]2
+[TYP]4
+[NAME EN]Secrets
+[NAME GE]Secrets
+[NAME CH]隐藏
+[NAME TU]Gizem
+[DESC EN]Hidden areas, chests and secret passages<br>make every game more exciting.
+[DESC GE]Versteckte Gebiete, Truhen und Geheimgänge<br>machen jedes Spiel spannender.
+[DESC CH]用来隐藏区域、宝藏和秘密通道<br>每次玩游戏都充满未知丰富游戏性.
+[DESC TU]Gizli alanlar, sandıklar ve gizli geçitler<br> her oyunu daha heyecanlı hale getirir.
+[NAME FR]Secrets
+[DESC FR]Les zones cachées, coffres et passages secrets<br>rendent chaque jeu plus excitant.
+[NAME PB]Segredos
+[DESC PB]Áreas escondidas, baús e passagens secretos<br>tornam os jogos mais emocionante.
+[NAME CT]秘密
+[DESC CT]秘密地區、寶箱和秘道<br>增加遊戲的刺激性
+[NAME HU]Titkok
+[DESC HU]Rejtett területek, ládák és titkos járatok <br> minden játékot izgalmasabbá tesznek.
+[NAME ES]Misterios
+[DESC ES]Áreas ocultas, cofres y pasajes secretos<br>haz que cada juego sea más emocionante.
+[NAME CZ]Tajné
+[DESC CZ]Skryté oblasti, truhly a tajné chodby<br>tvoří každou hru ještě více vzrušující.
+[NAME KO]숨겨진 지역(아이템) 기능
+[DESC KO]Hidden areas, chests and secret passages<br>make every game more exciting.
+[DATE]MAR 1977
+[RES POINTS]25
+[PRICE]5000
+[DEV COSTS]3000
+[PIC]
+[GAMEPLAY]15
+[GRAPHIC]0
+[SOUND]0
+[TECH]0
+
+[ID]3
+[TYP]4
+[NAME EN]Check Points
+[NAME GE]Check Points
+[NAME CH]保存点
+[NAME TU]Kontrol Noktaları
+[DESC EN]Restarting at check points reduces frustration.
+[DESC GE]Das Neustarten an Check Points sinkt<br>die Frustration beim spielen.
+[DESC CH]在保存点重新开始任务，增加玩家对任务的熟悉度.
+[DESC TU]Kontrol noktalarında yeniden başlamak hayal kırıklığını azaltır.
+[NAME FR]Points de Contrôle
+[DESC FR]Le redémarrage aux points de contrôle réduit la frustration.
+[NAME PB]Check points
+[DESC PB]Reiniciar em pontos de verificação reduz a frustração.
+[NAME CT]檢查點
+[DESC CT]在檢查點重新開始減少挫折感
+[NAME HU]Ellenőrzőpontok
+[DESC HU]Az ellenőrző pontokon történő újraindítás csökkenti a frusztrációt a játékosnál.
+[NAME ES]Puntos de control
+[DESC ES]Reiniciar en los puntos de control reduce la frustración.
+[NAME CZ]Kontrolní body
+[DESC CZ]Restartování v kontrolních bodech snižuje frustraci.
+[NAME KO]체크 포인트
+[DESC KO]Restarting at check points reduces frustration.
+[DATE]APR 1977
+[RES POINTS]25
+[PRICE]5000
+[DEV COSTS]3000
+[PIC]
+[GAMEPLAY]10
+[GRAPHIC]0
+[SOUND]0
+[TECH]5
+
+[ID]4
+[TYP]4
+[NAME EN]Cheat Codes
+[NAME GE]Cheat Codes
+[NAME CH]作弊代码
+[NAME TU]Hile Kodları
+[DESC EN]If a game is too difficult for you,<br>you can help yourself with cheat codes.
+[DESC GE]Wem ein Spiel zu schwer ist,<br>kann sich mit Cheat Codes behelfen.
+[DESC CH]如果你是手残党这个游戏对你来说太难了，<br>你可以输入作弊密码帮助自己.
+[DESC TU]Bir oyun sizin için çok zorsa,<br> hile kodları ile kendinize yardımcı olabilirsiniz.
+[NAME FR]Codes de Triche
+[DESC FR]Si un jeu est trop difficile pour vous,<br>vous pouvez vous aider avec des codes de triche.
+[NAME PB]Cheat codes
+[DESC PB]Se um jogo é muito difícil para você,<br>você pode se ajudar com cheats.
+[NAME CT]秘技碼
+[DESC CT]如果覺得遊戲太困難<br>可以用秘技碼自救
+[NAME HU]Csaláskódok
+[DESC HU]Ha egy játék túl nehéz számodra, <br> segíthetsz magadnak egy kód beütésével.
+[NAME ES]Codigo De Trucos
+[DESC ES]Si un juego es demasiado difícil para ti,<br>puede ayudarse a sí mismo con los códigos de trampa.
+[NAME CZ]Cheat kódy
+[DESC CZ]Pokud je pro vás hra příliš obtížná,<br>můžete si pomoci s cheaty.
+[NAME KO]치트 기능
+[DESC KO]If a game is too difficult for you,<br>you can help yourself with cheat codes.
+[DATE]MAY 1978
+[RES POINTS]50
+[PRICE]10000
+[DEV COSTS]5000
+[PIC]
+[GAMEPLAY]10
+[GRAPHIC]0
+[SOUND]0
+[TECH]10
+
+[ID]5
+[TYP]4
+[NAME EN]Password Saves
+[NAME GE]Password Saves
+[NAME CH]保存密码
+[NAME TU]Şifre Kaydeder
+[DESC EN]With a password, you can resume the game<br>at a later time at the same position.
+[DESC GE]Mittels eines Passworts,<br>kann man das Spiel zu einem späteren Zeitpunkt<br>wieder an gleicher Stelle aufnehmen.
+[DESC CH]有了密码，你可以随时登录游戏<br>随时随地和朋友开黑.
+[DESC TU]Bu işlev sayesinde oyuncular<br>oyundan çıkıp girdiklerinde tekrar şifre girmeleri gerekmez.
+[NAME FR]Clés de Sauvegardes
+[DESC FR]A l'aide d'une clé alphanumérique, chargez le jeu<br>à une position précise.
+[NAME PB]Senha para salvar
+[DESC PB]Com uma senha, você pode retomar o jogo<br>de onde parou mais tarde.
+[NAME CT]密碼存檔
+[DESC CT]可以使用密碼<br>在同一位置繼續遊戲
+[NAME HU]Jelszavas mentések
+[DESC HU]Jelszóval elmentheted a jelenlegi pozíciódat,<br> s betölteni is jelszóval tudod.
+[NAME ES]Guardar contraseña
+[DESC ES]Con una contraseña, puedes reanudar el juego.<br>en un momento posterior en la misma posición.
+[NAME CZ]Ukládání hesel
+[DESC CZ]Zadáním hesla můžete později<br>pokračovat ve hře na stejné pozici.
+[NAME KO]암호 저장 방식
+[DESC KO]With a password, you can resume the game<br>at a later time at the same position.
+[DATE]JUN 1978
+[RES POINTS]50
+[PRICE]10000
+[DEV COSTS]5000
+[PIC]
+[GAMEPLAY]10
+[GRAPHIC]0
+[SOUND]0
+[TECH]10
+
+[ID]6
+[TYP]4
+[NAME EN]Sidequests
+[NAME GE]Sidequests
+[NAME CH]支线任务
+[NAME TU]Yan Görevler
+[DESC EN]Quests that are not linked to the main story<br>keep the player additionally occupied.
+[DESC GE]Aufgaben die nicht direkt mit der Hauptstory verknüpft sind,<br>beschäftigen den Spieler zusätzlich.
+[DESC CH]与主线剧情没有联系的任务<br>让玩家有更多的时间探索游戏世界.
+[DESC TU]Ana hikaye ile bağlantılı olmayan görevler<br> oyuncuyu ek olarak meşgul eder.
+[NAME FR]Quêtes Secondaires
+[DESC FR]Des quêtes qui ne sont pas liées à l'histoire principale<br>et qui gardent le joueur occupé.
+[NAME PB]Missões secundárias
+[DESC PB]Missões que não estão ligadas à história principal<br>ajudam a manter o jogador ocupado.
+[NAME CT]支線
+[DESC CT]跟主線無關聯的任務<br>侵佔玩家更長時間
+[NAME HU]Mellékküldetések
+[DESC HU]A fő történetszálhoz nem kapcsolódó küldetések <br> további elfoglaltságot nyújtanak a játékos számára.
+[NAME ES]Misiones secundarias
+[DESC ES]Misiones que no están vinculadas a la historia principal<br>Mantén al jugador adicionalmente ocupado.
+[NAME CZ]Vedlejší questy
+[DESC CZ]Úkoly, které nesouvisejí s hlavním příběhem<br>udržují hráče více vytíženým.
+[NAME KO]서브 퀘스트
+[DESC KO]Quests that are not linked to the main story<br>keep the player additionally occupied.
+[DATE]JUL 1979
+[RES POINTS]75
+[PRICE]15000
+[DEV COSTS]8000
+[PIC]
+[GAMEPLAY]20
+[GRAPHIC]0
+[SOUND]0
+[TECH]5
+
+[ID]7
+[TYP]4
+[NAME EN]Character Progression
+[NAME GE]Character Progression
+[NAME CH]角色等级
+[NAME TU]Karakter Geliştirme
+[DESC EN]Leveling up the game character can be very motivating.
+[DESC GE]Das Aufleveln der Spielfigur<br>kann sehr motivierend sein.
+[DESC CH]提升游戏角色的等级，可以很好的激发玩家的活跃度.
+[DESC TU]Oyun karakterini geliştirmek çok motive edici olabilir.
+[NAME FR]Progression Personnage
+[DESC FR]Améliorer le personnage du jeu peut être très motivant.
+[NAME PB]Progressão de personagem
+[DESC PB]Aumentar o nível do personagem no jogo pode ser muito motivador.
+[NAME CT]角色進化
+[DESC CT]角色升級給很大玩下去的動力
+[NAME HU]Karakter fejlődés
+[DESC HU]A játékos karakterének fejlődése nagy motivációt és játékidőt adhat a játékos számára.
+[NAME ES]Progresión del personaje
+[DESC ES]Subir de nivel al personaje del juego puede resultar muy motivador.
+[NAME CZ]Pokrok postavy
+[DESC CZ]Levelování herní postavy může být velmi motivující.
+[NAME KO]캐릭터 성장
+[DESC KO]Leveling up the game character can be very motivating.
+[DATE]AUG 1979
+[RES POINTS]75
+[PRICE]15000
+[DEV COSTS]8000
+[PIC]
+[GAMEPLAY]20
+[GRAPHIC]0
+[SOUND]0
+[TECH]5
+
+[ID]8
+[TYP]4
+[NAME EN]Save Games
+[NAME GE]Save Games
+[NAME CH]保存游戏
+[NAME TU]Oyunu Kaydet
+[DESC EN]Save games allows you to resume the game at a later time.
+[DESC GE]Das speichern von Spielständen<br>erlaubt es das Spiel zu einem späteren Zeitpunkt<br>an gleicher Stelle wieder aufzunehmen.
+[DESC CH]保存游戏可以让你在以后的时间恢复并且继续游戏.
+[DESC TU]Oyunu kaydet seçeneği, oyuna daha sonra kaldığınız yerden devam etmenize olanak sağlar.
+[NAME FR]Sauvegardes
+[DESC FR]Sauvegarder les parties permet de reprendre le jeu ultérieurement.
+[NAME PB]Salvar jogo
+[DESC PB]Salvar jogos permite que você retome o jogo de onde parou.
+[NAME CT]儲存遊戲
+[DESC CT]儲存遊戲讓你在較後時間繼續遊戲
+[NAME HU]Játék mentée
+[DESC HU]A játékok mentése lehetővé teszi a játék későbbi folytatását.
+[NAME ES]Guardar juegos
+[DESC ES]Guardar juegos le permite reanudar el juego más tarde.
+[NAME CZ]Ukládání her
+[DESC CZ]Ukládání her umožňuje vrátit se ke hře v pozdější době.
+[NAME KO]게임 저장
+[DESC KO]게임 저장을 사용하면 나중에 게임을 다시 시작할 수 있습니다.
+[DATE]SEP 1980
+[RES POINTS]100
+[PRICE]20000
+[DEV COSTS]10000
+[PIC]
+[GAMEPLAY]20
+[GRAPHIC]0
+[SOUND]0
+[TECH]20
+
+[ID]9
+[TYP]6
+[NAME EN]Splitscreen Multiplayer
+[NAME GE]Splitscreen Multiplayer
+[NAME CH]分屏多人游戏
+[NAME TU]Bölünmüş Ekran Çok Oyunculu
+[DESC EN]Splitscreen Multiplayer makes it possible<br>to compete with your best friend.
+[DESC GE]Multiplayer auf einem Bildschirm macht es möglich,<br> sich mit dem besten Freund zu messen.
+[DESC CH]可以进行分屏多人游戏<br>来和你最好的朋友开黑.
+[DESC TU]Bölünmüş Ekran, en iyi arkadaşınızla<br> rekabet etmenizi mümkün kılar.
+[NAME FR]Ecran Partagé
+[DESC FR]Le mode multijoueur en écran partagé permet<br>de rivaliser avec ses meilleurs amis.
+[NAME PB]Multijogador em tela dividida
+[DESC PB]Multijogador em tela dividida torna possível<br>competir com seu melhor amigo.
+[NAME CT]分屏多人遊戲
+[DESC CT]分屏多人遊戲讓你可以<br>跟朋友較量
+[NAME HU]Osztott képernyő
+[DESC HU]Az osztott képernyő lehetővé teszi <br>, hogy a legjobb barátoddal tudj versenyezni pontokért.
+[NAME ES]Multijugador en pantalla dividida
+[DESC ES]El modo multijugador de pantalla dividida lo hace posible<br>Para competir con tu mejor amigo.
+[NAME CZ]Hra pro dva - Splitscreen
+[DESC CZ]Splitscreen - Rozdělení obrazovky umožňuje soutěžení s kamarádem na jednom zařízení.
+[NAME KO]화면 분할 멀티플레이
+[DESC KO]Splitscreen Multiplayer makes it possible<br>to compete with your best friend.
+[DATE]OCT 1980
+[RES POINTS]100
+[PRICE]20000
+[DEV COSTS]10000
+[PIC]
+[GAMEPLAY]20
+[GRAPHIC]0
+[SOUND]0
+[TECH]20
+
+[ID]10
+[TYP]4
+[NAME EN]Easter Eggs
+[NAME GE]Easter Eggs
+[NAME CH]游戏彩蛋
+[NAME TU]Sürpriz Yumurtalar
+[DESC EN]Easter Eggs are funny or informative secrets in the game.<br>They encourage players to explore the entire game.
+[DESC GE]Easter Eggs sind witzige oder informative<br>Geheimnisse im Spiel.<br>Sie ermutigen die Spieler das gesamte Spiel zu erkunden.
+[DESC CH]游戏彩蛋暗藏游戏中许多有趣或者信息量大的秘密，<br>可以有效激发玩家自主探索整个游戏世界.
+[DESC TU]Sürpriz Yumurtalar oyundaki eğlenceli veya bilgilendirici sırlardır.<br> Oyuncuları tüm oyunu keşfetmeye teşvik ederler.
+[NAME FR]Easter Eggs
+[DESC FR]Les Easter Eggs sont des secrets amusants ou informatifs dans le jeu.<br>Ils encouragent les joueurs à explorer l'ensemble de ce dernier.
+[NAME PB]Easter eggs
+[DESC PB]Easter Eggs são segredos engraçados ou informativos do jogo.<br>Eles incentivam os jogadores a explorar o jogo inteiro.
+[NAME CT]彩蛋
+[DESC CT]彩蛋在遊戲中既有趣也充滿秘密信息<br>鼓勵玩家探索整個遊戲
+[NAME HU]Easter Egg-ek
+[DESC HU]Az Easter Egg-ek vicces vagy informatív titok a játékban. <br> Arra ösztönzi a játékost, hogy fel kell fedezniük a játékot, így több játékidejük lesz a játékban.
+[NAME ES]Easter Eggs
+[DESC ES]Easter Eggs son secretos divertidos o informativos en el juego.<br>Animan a los jugadores a explorar todo el juego.
+[NAME CZ]Easter Eggs
+[DESC CZ]Easter Eggs jsou zábavná nebo poučná tajemství ve hře.<br>Vyzývají hráče, aby prozkoumali celou hru.
+[NAME KO]이스터 에그
+[DESC KO]Easter Eggs are funny or informative secrets in the game.<br>They encourage players to explore the entire game.
+[DATE]NOV 1981
+[RES POINTS]125
+[PRICE]25000
+[DEV COSTS]12000
+[PIC]
+[GAMEPLAY]30
+[GRAPHIC]0
+[SOUND]0
+[TECH]15
+
+[ID]11
+[TYP]4
+[NAME EN]Random Story Events
+[NAME GE]Zufällige Story Ereignisse
+[NAME CH]多结局事件
+[NAME TU]Rastgele Hikaye Olayları
+[DESC EN]Random story events improve the<br>game as the story is not always the same.
+[DESC GE]Zufällige Story Ereignisse lockern das Spiels auf,<br>da die Geschichte nicht immer identisch verläuft.
+[DESC CH]多结局事件<br>游戏剧情的发展，结果并不总是只有一个.
+[DESC TU]Rastgele hikaye olayları, hikaye her zaman aynı olmadığından<br> oyunu geliştirir.
+[NAME FR]Evénements Aléatoires
+[DESC FR]Les événements d'histoires aléatoires améliorent<br>le jeu car l'histoire n'est pas toujours la même.
+[NAME PB]Eventos de história aleatórios
+[DESC PB]Os eventos aleatórios da história melhoram o jogo,<br>pois a história nem sempre é a mesma.
+[NAME CT]隨機故事事件
+[DESC CT]隨機故事事件改善遊戲<br>讓故事不再固定
+[NAME HU]Véletlenszerű történetek
+[DESC HU]A véletlenszerű történetek javítják a játékot, mivel a történet nem mindig ugyanaz.
+[NAME ES]Eventos de historia aleatorios
+[DESC ES]Los eventos aleatorios de la historia mejoran la<br>juego ya que la historia no es siempre la misma.
+[NAME CZ]Náhodné události příběhu
+[DESC CZ]Náhodné události příběhu vylepšují<br>hru, protože příběh není nikdy stejný.
+[NAME KO]무작위 스토리 이벤트
+[DESC KO]Random story events improve the<br>game as the story is not always the same.
+[DATE]DEC 1981
+[RES POINTS]125
+[PRICE]25000
+[DEV COSTS]12000
+[PIC]
+[GAMEPLAY]30
+[GRAPHIC]0
+[SOUND]0
+[TECH]15
+
+[ID]12
+[TYP]4
+[NAME EN]Repeatable Quests
+[NAME GE]Wiederholbare Quests
+[NAME CH]重新开始任务
+[NAME TU]Tekrarlanabilir Görevler
+[DESC EN]Repeatable quests are good for<br>keeping the player busy longer.
+[DESC GE]Wiederholbare Quests eignen sich gut<br>um den Spieler länger zu beschäftigen.
+[DESC CH]可玩性高的任务<br>不会让玩家在游戏中无所事事.
+[DESC TU]Tekrarlanabilir görevler, oyuncuyu daha uzun süre meşgul etmek <br> için iyidir.
+[NAME FR]Quêtes Rejouables
+[DESC FR]Les quêtes répétables sont utiles pour<br>garder le joueur occupé plus longtemps.
+[NAME PB]Missões repetíveis
+[DESC PB]Missões repetíveis são boas para<br>manter o jogador ocupado por mais tempo.
+[NAME CT]可重複任務
+[DESC CT]可重複任務讓玩家繼續繁忙一會
+[NAME HU]Ismételhető küldetések
+[DESC HU]Az ismétlődő küldetések arra alkalmasak, hogy a játékos hosszabb ideig elfoglalt legyen.
+[NAME ES]Misiones repetibles
+[DESC ES]Las misiones repetibles son buenas para<br>Mantener al jugador ocupado más tiempo.
+[NAME CZ]Opakovatelné úkoly
+[DESC CZ]Opakovatelné úkoly jsou dobré pro<br>udržení hráče déle zaměstnaného.
+[NAME KO]반복 가능한 퀘스트
+[DESC KO]Repeatable quests are good for<br>keeping the player busy longer.
+[DATE]JAN 1982
+[RES POINTS]150
+[PRICE]30000
+[DEV COSTS]15000
+[PIC]
+[GAMEPLAY]30
+[GRAPHIC]0
+[SOUND]0
+[TECH]20
+
+[ID]13
+[TYP]4
+[NAME EN]Character Customization
+[NAME GE]Charakteranpassung
+[NAME CH]自由捏脸
+[NAME TU]Karakter Özelleştirme
+[DESC EN]The players can identify themselves<br>better with a self-created game character.
+[DESC GE]Spieler können sich mit einer selbst erstellten<br>Spielfigur besser identifizieren.
+[DESC CH]人物角色可以自由捏脸<br>可以让玩家更好地代入游戏角色.
+[DESC TU]Oyuncular, kendi oluşturdukları bir oyun karakteriyle<br> kendilerini daha iyi tanımlayabilirler.
+[NAME FR]Personnalisation Personnage
+[DESC FR]Les joueurs peuvent mieux s'identifier<br>mieux avec un personnage de jeu auto-créé.
+[NAME PB]Personalização de personagem
+[DESC PB]Os jogadores podem se identificar<br>melhor com um personagem criado por ele mesmo.
+[NAME CT]自定角色
+[DESC CT]用自己設定的遊戲角色更好的認出自我
+[NAME HU]Karakter testreszabása
+[DESC HU]A játékosok képesek önmagukat jobban azonosítani egy saját készítésű játékkarakterrel.
+[NAME ES]Personalización de personaje
+[DESC ES]Los jugadores pueden identificarse<br>mejor con un personaje de juego de creación propia.
+[NAME CZ]Přizpůsobení postavy
+[DESC CZ]Hráči se mohou lépe ztotožnit<br>s vlastní herní postavou.
+[NAME KO]캐릭터 커스터 마이징
+[DESC KO]The players can identify themselves<br>better with a self-created game character.
+[DATE]FEB 1982
+[RES POINTS]150
+[PRICE]30000
+[DEV COSTS]15000
+[PIC]
+[GAMEPLAY]30
+[GRAPHIC]0
+[SOUND]0
+[TECH]20
+
+[ID]14
+[TYP]4
+[NAME EN]Skill Trees
+[NAME GE]Skill Trees
+[NAME CH]技能树
+[NAME TU]Beceri Ağacı
+[DESC EN]This feature allows the abilities of the<br>character to be expanded according to the player's wishes.
+[DESC GE]Dieses Feature erlaubt es,<br>die Fähigkeiten der Spielfigur<br>nach Wünschen des Spielers auszubauen.
+[DESC CH]这个功能可以使<br>角色，根据玩家的意思进行组合连招.
+[DESC TU]Bu özellik,<br> karakterinin yeteneklerinin oyuncunun isteklerine göre genişletilmesine izin verir.
+[NAME FR]Arbre de Compétences
+[DESC FR]Cette fonction permet aux capacités du<br>personnage de progresser selon les souhaits du joueur.
+[NAME PB]Árvores de habilidades
+[DESC PB]Este recurso permite que as habilidades do personagem<br>sejam expandidas de acordo com os desejos do jogador.
+[NAME CT]技能樹
+[DESC CT]這個讓玩家可以按其意願<br>發展角色技能
+[NAME HU]Képességfák
+[DESC HU]Ez a funkció lehetővé teszi a <br> karakter képességeinek bővítését a játékos kívánságainak megfelelően.
+[NAME ES]Árboles de habilidades
+[DESC ES]Esta característica permite que las habilidades del<br>personaje que se ampliará según los deseos del jugador.
+[NAME CZ]Dovednostní strom
+[DESC CZ]Tato funkce umožňuje rozšiřovat schopnosti<br>herní postavy dle požadavků hráče.
+[NAME KO]스킬 트리
+[DESC KO]This feature allows the abilities of the<br>character to be expanded according to the player's wishes.
+[DATE]MAR 1983
+[RES POINTS]175
+[PRICE]35000
+[DEV COSTS]20000
+[PIC]
+[GAMEPLAY]35
+[GRAPHIC]0
+[SOUND]0
+[TECH]20
+
+[ID]15
+[TYP]4
+[NAME EN]Tutorial
+[NAME GE]Tutorial
+[NAME CH]新手教程
+[NAME TU]Öğretici
+[DESC EN]A tutorial helps the player to understand<br>the functions of the game faster.
+[DESC GE]Mittels eines Tutorials finden die Spieler<br>schneller ins Spiel.<br>Ein zeitintensives studieren des Spielanleitung<br>ist nicht mehr nötig.
+[DESC CH]新手教程帮助萌新快速上手<br>让萌新快速熟悉游戏玩法.
+[DESC TU]Öğretici, oyuncunun oyunun işlevlerini<br> daha hızlı anlamasına yardımcı olur.
+[NAME FR]Didactitiel
+[DESC FR]Un tutoriel aide le joueur à comprendre<br>les fonctions du jeu plus rapidement.
+[NAME PB]Tutorial
+[DESC PB]Um tutorial ajuda o jogador a entender<br>as funções do jogo mais rápido.
+[NAME CT]教學
+[DESC CT]教學可以更快了解<br>遊戲功能
+[NAME HU]Oktatómód
+[DESC HU]Egy oktatóanyag segíti a játékost, hogy gyorsabban megértse a játék funkcióit.
+[NAME ES]Tutorial
+[DESC ES]Un tutorial ayuda al jugador a comprender<br>las funciones del juego más rápido.
+[NAME CZ]Tutoriál
+[DESC CZ]Výukový program pomáhá hráči rychleji pochopit funkce hry.
+[NAME KO]튜토리얼
+[DESC KO]A tutorial helps the player to understand<br>the functions of the game faster.
+[DATE]APR 1983
+[RES POINTS]175
+[PRICE]35000
+[DEV COSTS]20000
+[PIC]
+[GAMEPLAY]30
+[GRAPHIC]0
+[SOUND]0
+[TECH]25
+
+[ID]16
+[TYP]4
+[NAME EN]Archivements
+[NAME GE]Erfolge
+[NAME CH]存档
+[NAME TU]Başarılar
+[DESC EN]The players are motivated to<br>achieve all successes in the game.
+[DESC GE]Spieler sind motiviert, sämtliche Erfolge<br>im Spiel zu erreichen.
+[DESC CH]因为有存档所以玩家不怕过不了任务<br>让玩家更加了解任务的速通玩法.
+[DESC TU]Oyuncular, oyundaki tüm başarılara <br> ulaşmak için motive olmuşlardır.
+[NAME FR]Succès
+[DESC FR]Peut motiver les joueurs à<br>réussir tous les succès du jeu.
+[NAME PB]Conquistas
+[DESC PB]Os jogadores ficam motivados à alcançar todas as conquistas do jogo.
+[NAME CT]成就
+[DESC CT]玩家有動力完成遊戲全部目標
+[NAME HU]Eredmények
+[DESC HU]A játékosok motiváltak arra, hogy <br> mindent elérjenek a játékban, köztük az összes eredményt.
+[NAME ES]Logros
+[DESC ES]Los jugadores están motivados para<br>lograr todos los éxitos en el juego.
+[NAME CZ]Úspěchy
+[DESC CZ]Hráči mají motivaci k dosažení všech úspěchů ve hře.
+[NAME KO]업적
+[DESC KO]The players are motivated to<br>achieve all successes in the game.
+[DATE]MAY 1984
+[RES POINTS]200
+[PRICE]40000
+[DEV COSTS]25000
+[PIC]
+[GAMEPLAY]40
+[GRAPHIC]0
+[SOUND]0
+[TECH]20
+
+[ID]17
+[TYP]4
+[NAME EN]Mini Games
+[NAME GE]Minispiele
+[NAME CH]小游戏
+[NAME TU]Mini Oyunlar
+[DESC EN]Mini games offer a completely<br>different gameplay than the main game.
+[DESC GE]Minispiele bieten ein komplett anderes<br>Gameplay für Zwischendurch.
+[DESC CH]小游戏提供<br>这个游戏中还有不同的玩法.
+[DESC TU]Mini oyunlar, ana oyundan tamamen<br> farklı bir oyun deneyimi sunar.
+[NAME FR]Mini Jeux
+[DESC FR]Les mini-jeux permettent de faire <br>une pause du jeu... dans le jeu !
+[NAME PB]Mini games
+[DESC PB]Os mini games oferecem uma jogabilidade<br>completamente diferente do jogo principal.
+[NAME CT]小遊戲
+[DESC CT]小遊戲給予<br>跟遊戲本體完全不同的玩法
+[NAME HU]Mini játékok
+[DESC HU]A mini játékok teljesen más játékmenetet kínálnak, mint maga a fő játék.
+[NAME ES]Mini juegos
+[DESC ES]Los minijuegos ofrecen una<br>jugabilidad diferente a la del juego principal.
+[NAME CZ]Mini hry
+[DESC CZ]Mini hry nabízejí zcela<br>odlišnou hratelnost než hlavní hra.
+[NAME KO]미니 게임
+[DESC KO]Mini games offer a completely<br>different gameplay than the main game.
+[DATE]JUN 1985
+[RES POINTS]220
+[PRICE]45000
+[DEV COSTS]28000
+[PIC]
+[GAMEPLAY]50
+[GRAPHIC]0
+[SOUND]0
+[TECH]20
+
+[ID]18
+[TYP]4
+[NAME EN]New Game Plus
+[NAME GE]New Game Plus
+[NAME CH]新的游戏功能
+[NAME TU]Yeni Oyun+
+[DESC EN]This function makes it possible to<br>play through the game again with new content.
+[DESC GE]Diese Funktion macht es möglich,<br>das Spiel ein weiteres mal mit neuen Inhalt durchzuspielen.
+[DESC CH]可以实现<br>玩家游玩新赛季的游戏内容.
+[DESC TU]Bu işlev, oyunu yeni içerikle<br> oynamayı mümkün kılar.
+[NAME FR]Nouvelle Partie +
+[DESC FR]Cette fonction permet de<br>rejouer le jeu avec un nouveau contenu.
+[NAME PB]Novo jogo +
+[DESC PB]Esta função torna possível jogar<br>novamente o jogo com novos conteúdos.
+[NAME CT]新遊戲+
+[DESC CT]新遊戲+可以用新的內容重玩遊戲
+[NAME HU]ÚJ játék +
+[DESC HU]Ez a funkció lehetővé teszi a játék újbóli lejátszását új tartalommal és nehezebb ellenfelekkel.
+[NAME ES]nuevo juego plus
+[DESC ES]Esta función permite<br>vuelve a jugar con contenido nuevo.
+[NAME CZ]Nová hra Plus
+[DESC CZ]Tato funkce umožňuje<br>hrát hru znovu s novým obsahem.
+[NAME KO]새로운 게임 +
+[DESC KO]이 기능을 사용하면 새로운 콘텐츠로<br>게임을 다시 플레이 할 수 있습니다.
+[DATE]JUL 1986
+[RES POINTS]250
+[PRICE]50000
+[DEV COSTS]30000
+[PIC]
+[GAMEPLAY]40
+[GRAPHIC]0
+[SOUND]0
+[TECH]40
+
+[ID]19
+[TYP]4
+[NAME EN]Multiple Ends
+[NAME GE]Multiple Enden
+[NAME CH]多结局
+[NAME TU]Birden Fazla Son
+[DESC EN]Multiple endings motivate players<br>to play through the game several times.
+[DESC GE]Multiple Enden motiviert Spieler<br>das Spiel mehrmals durchzuspielen.
+[DESC CH]多个结局鼓励玩家<br>尝试游戏多个玩法.
+[DESC TU]Birden fazla son, oyuncuları <br> oyunu birkaç kez oynamaya motive eder.
+[NAME FR]Fins Multiples
+[DESC FR]Les fins multiples motivent les joueurs<br>à recommencer plusieurs fois le jeu.
+[NAME PB]Múltiplos finais
+[DESC PB]Finais múltiplos motivam os jogadores<br>a jogar o jogo várias vezes.
+[NAME CT]多重結局
+[DESC CT]多重結局讓玩家有動力多次重玩遊戲
+[NAME HU]Több befejezés
+[DESC HU]A több befejezés arra ösztönzi a játékost, hogy többször is végigjátsza a játékot más befejezést választva.
+[NAME ES]Múltiples extremos
+[DESC ES]Múltiples finales motivan a los jugadores.<br>para jugar el juego varias veces.
+[NAME CZ]Více konců
+[DESC CZ]Více možných zakončení hry<br>motivují hráče dohrát hru několikrát.
+[NAME KO]멀티 엔딩
+[DESC KO]여러 엔딩은 플레이어가<br>게임을 여러 번 플레이하도록 동기를 부여합니다.
+[DATE]AUG 1987
+[RES POINTS]275
+[PRICE]55000
+[DEV COSTS]33000
+[PIC]
+[GAMEPLAY]60
+[GRAPHIC]0
+[SOUND]0
+[TECH]30
+
+[ID]20
+[TYP]4
+[NAME EN]Dynamic Level of Difficulty
+[NAME GE]Dynamischer Schwierigkeitsgrad
+[NAME CH]动态难度
+[NAME TU]Dinamik Zorluk Seviyesi
+[DESC EN]A dynamic difficulty level automatically<br>adjusts to the player's abilities.
+[DESC GE]Ein dynamischer Schwierigkeitsgrad stellt<br>sich automatisch auf die Fähigkeiten<br>des Spielers ein.
+[DESC CH]动态难度等级<br>根据玩家的实力进行自动调整.
+[DESC TU]Dinamik bir zorluk seviyesi<br> oyuncunun yeteneklerine göre otomatik olarak ayarlanır.
+[NAME FR]Difficulté Dynamique
+[DESC FR]Un niveau de difficulté dynamique automatique<br>s'adapte aux capacités du joueur.
+[NAME PB]Nível dinâmico de dificuldade
+[DESC PB]Um nível de dificuldade dinâmico se ajusta<br>automaticamente às habilidades do jogador.
+[NAME CT]動態難度
+[DESC CT]動態難度根據玩家的能力<br>自動調整難度
+[NAME HU]Dinamikus nehézségi szint
+[DESC HU]A dinamikus nehézségi szint automatikusan <br> igazodik a játékos képességeihez.
+[NAME ES]Nivel dinámico de dificultad
+[DESC ES]Un nivel de dificultad dinámico automáticamente<br>se ajusta a las habilidades del jugador.
+[NAME CZ]Dynamická úroveň obtížnosti
+[DESC CZ]Dynamická úroveň obtížnosti se automaticky<br>přizpůsobuje hráčovým schopnostem.
+[NAME KO]동적 난이도
+[DESC KO]동적 난이도는<br>플레이어의 능력에 따라 자동으로 조정됩니다.
+[DATE]SEP 1988
+[RES POINTS]300
+[PRICE]60000
+[DEV COSTS]35000
+[PIC]
+[GAMEPLAY]50
+[GRAPHIC]0
+[SOUND]0
+[TECH]50
+
+[ID]21
+[TYP]6
+[NAME EN]LAN Multiplayer
+[NAME GE]LAN Multiplayer
+[NAME CH]局域网联机
+[NAME TU]Yerel Ağ Çok Oyunculu
+[DESC EN]This feature allows you to play<br>the game with several people in one room.
+[DESC GE]Dieses Features erlaubt es,<br>das Spiel mit mehreren Personen in einem Raum zu spielen.
+[DESC CH]这个功能可以让你<br>与几个朋友在一个房间进行开黑.
+[DESC TU]Bu özellik, oyunu bir odada birden fazla kişiyle<br> oynamanıza olanak tanır.
+[NAME FR]LAN Multijoueur
+[DESC FR]Cette fonction vous permet de jouer<br>avec plusieurs personnes sur un réseau local.
+[NAME PB]Multijogador em LAN
+[DESC PB]Este recurso permite que você jogue<br>com várias pessoas em uma sala.
+[NAME CT]本地多人遊戲
+[DESC CT]讓你可以跟房內多人進行遊戲
+[NAME HU]Helyi többjátékos mód
+[DESC HU]Ez a funkció lehetővé teszi, hogy több emberrel játszhass a játékkal egy szobában egy gépről.
+[NAME ES]Multijugador LAN
+[DESC ES]Esta característica te permite jugar<br>el juego con varias personas en una habitación.
+[NAME CZ]Hra pro více hráčů - LAN
+[DESC CZ]Tato funkce vám umožňuje hrát hru s několika lidmi v jedné místnosti.
+[NAME KO]랜 멀티플레이
+[DESC KO]This feature allows you to play<br>the game with several people in one room.
+[DATE]OCT 1989
+[RES POINTS]320
+[PRICE]65000
+[DEV COSTS]38000
+[PIC]
+[GAMEPLAY]60
+[GRAPHIC]0
+[SOUND]0
+[TECH]50
+
+[ID]22
+[TYP]4
+[NAME EN]Level Editor
+[NAME GE]Leveleditor
+[NAME CH]关卡编辑器
+[NAME TU]Seviye Editörü
+[DESC EN]A level editor allows the player to create new levels.
+[DESC GE]Ein Leveleditor ermöglicht es dem Spieler<br>seine eigenen Levels zu kreieren.
+[DESC CH]关卡编辑器允许玩家创建新的关卡.
+[DESC TU]Seviye editörü, oyuncunun yeni seviyeler oluşturmasına izin verir.
+[NAME FR]Editeur de Niveaux
+[DESC FR]Un éditeur qui permet au joueur de créer ses propres niveaux.
+[NAME PB]Editor de níveis
+[DESC PB]Um editor de níveis permite ao jogador criar novas fases.
+[NAME CT]關卡編輯
+[DESC CT]可以讓玩家製作新關卡
+[NAME HU]Pályaszerkesztő
+[DESC HU]A pályaszerkesztő lehetővé teszi a játékos számára, hogy új pályákat hozhasson létre.
+[NAME ES]Editor de niveles
+[DESC ES]Un editor de niveles permite al jugador crear nuevos niveles.
+[NAME CZ]Editor úrovní
+[DESC CZ]Editor úrovní umožňuje hráči vytvářet nové úrovně.
+[NAME KO]레벨 에디터
+[DESC KO]A level editor allows the player to create new levels.
+[DATE]NOV 1990
+[RES POINTS]350
+[PRICE]70000
+[DEV COSTS]40000
+[PIC]
+[GAMEPLAY]20
+[GRAPHIC]0
+[SOUND]0
+[TECH]100
+
+[ID]23
+[TYP]6
+[NAME EN]Online Multiplayer
+[NAME GE]Online Multiplayer
+[NAME CH]在线多人游戏
+[NAME TU]Çevrimiçi Çok Oyunculu
+[DESC EN]Online Multiplayer allows you to<br>play together via the Internet.
+[DESC GE]Online Multiplayer ermöglicht<br>das Miteinanderspielen per Internet.
+[DESC CH]在线多人游戏让您可以<br>通过互联网和全世界的玩家进行开黑.
+[DESC TU]Çevrimiçi Çok Oyunculu, İnternet üzerinden<br> birlikte oynamanıza izin verir.
+[NAME FR]Multijoueur en Ligne
+[DESC FR]Le multijoueur en ligne vous permet de<br>jouer ensemble via Internet.
+[NAME PB]Multijogador online
+[DESC PB]O multijogador online permite que o jogador<br>jogue junto com outras pessoas pela Internet.
+[NAME CT]線上多人遊戲
+[DESC CT]讓你可以經互聯網<br>進行多人遊戲
+[NAME HU]Többjátékos mód
+[DESC HU]A többjátékos mód lehetővé teszi,<br> hogy együtt játszon a játékos egy barátával az interneten keresztül.
+[NAME ES]Multijugador online
+[DESC ES]El multijugador en línea te permite<br>jugar juntos a través de Internet.
+[NAME CZ]Hra pro více hráčů - Online
+[DESC CZ]Umožňuje připojíne více lidí<br>z různých míst světa přes insternet.
+[NAME KO]온라인 멀티 플레이
+[DESC KO]Online Multiplayer allows you to<br>play together via the Internet.
+[DATE]DEC 1991
+[RES POINTS]375
+[PRICE]75000
+[DEV COSTS]42000
+[PIC]
+[GAMEPLAY]90
+[GRAPHIC]0
+[SOUND]0
+[TECH]40
+
+[ID]24
+[TYP]4
+[NAME EN]Adjustable HUD
+[NAME GE]Einstellbares HUD
+[NAME CH]自定义状态栏
+[NAME TU]Ayarlanabilir HUD
+[DESC EN]An adjustable HUD gives players the freedom<br>to display only the information they want on the screen.
+[DESC GE]Ein einstellbares HUD gibt Spielern die Freiheit<br>ausschließlich gewünschte Informationen<br>auf den Bildschirm anzuzeigen.
+[DESC CH]自定义状态栏给玩家更多操作空间<br>只显示他们想要在屏幕显示的信息.
+[DESC TU]Ayarlanabilir HUD, oyunculara<br> ekranda yalnızca istedikleri bilgileri görüntüleme özgürlüğü verir.
+[NAME FR]HUD ajustable
+[DESC FR]Un HUD réglable donne aux joueurs la liberté<br>d'afficher uniquement les informations souhaitées à l'écran.
+[NAME PB]HUD ajustável
+[DESC PB]Um HUD ajustável dá aos jogadores a liberdade<br>de exibir apenas as informações que desejam na tela.
+[NAME CT]自定顯示欄
+[DESC CT]可調整的顯示欄，玩家可自由的顯示<br>想看到的資料
+[NAME HU]Állítható HUD
+[DESC HU]Az állítható HUD lehetővé teszi a játékos számára, hogy csak a kívánt információkat jelenítse meg a képernyőn.
+[NAME ES]HUD ajustable
+[DESC ES]Un HUD ajustable da a los jugadores la libertad.<br>para mostrar solo la información que desean en la pantalla.
+[NAME CZ]Nastavitelné HUD
+[DESC CZ]Nastavitelné HUD dává hráčům více svobody<br>určit si, které informace si chtějí nechat zobrazovat na obrazovce.
+[NAME KO]조절식 HUD
+[DESC KO]An adjustable HUD gives players the freedom<br>to display only the information they want on the screen.
+[DATE]JAN 1992
+[RES POINTS]400
+[PRICE]80000
+[DEV COSTS]45000
+[PIC]
+[GAMEPLAY]40
+[GRAPHIC]0
+[SOUND]0
+[TECH]100
+
+[ID]25
+[TYP]4
+[NAME EN]Adjustable Censoring
+[NAME GE]Einstellbare Zensierung
+[NAME CH]选择禁用老司机开车内容
+[NAME TU]Ayarlanabilir Sansür
+[DESC EN]This feature allows parents to<br>disable different content in the game.
+[DESC GE]Mit dieser Funktion können Eltern<br>unterschiedliche Inhalte im Spiel deaktivieren.
+[DESC CH]该功能允许父母<br>禁用游戏中的老司机开车内容.
+[DESC TU]Bu özellik, ebeveynlerin<br> oyundaki farklı içeriği devre dışı bırakmasına olanak tanır.
+[NAME FR]Contenu Ajustable
+[DESC FR]Cette fonctionnalité permet aux parents de<br>désactiver différents contenus dans le jeu.
+[NAME PB]Censura ajustável
+[DESC PB]Este recurso permite que os pais<br>desabilitem diferentes conteúdos no jogo.
+[NAME CT]可調整的內容過濾
+[DESC CT]讓父母可以<br>停用指定內容
+[NAME HU]Állítható cenzúrázás
+[DESC HU]Ez a funkció lehetővé teszi, hogy a szülők <br> letiltsák a játék különböző tartalmait, köztük a meztelenséget.
+[NAME ES]Censura ajustable
+[DESC ES]Esta característica permite a los padres<br>deshabilitar contenido diferente en el juego.
+[NAME CZ]Nastavitelná cenzura
+[DESC CZ]Tato funkce umožní rodičům ve hře<br>zakázat obsah pro dospělé.
+[NAME KO]조절 가능한 검열
+[DESC KO]This feature allows parents to<br>disable different content in the game.
+[DATE]FEB 1993
+[RES POINTS]420
+[PRICE]85000
+[DEV COSTS]48000
+[PIC]
+[GAMEPLAY]75
+[GRAPHIC]0
+[SOUND]0
+[TECH]75
+
+[ID]26
+[TYP]4
+[NAME EN]Morale Mechanics
+[NAME GE]Moral-Mechanik
+[NAME CH]道德系统
+[NAME TU]Moral Mekaniği
+[DESC EN]This feature allows the player to make moral<br>decisions that affect the game world.
+[DESC GE]Dieses Feature erlaubt dem Spieler<br>zu moralischen Entscheidungen,<br>welche sich auf die Spielwelt auswirken.
+[DESC CH]可以让玩家进行道德选择<br>影响游戏世界剧情的发展.
+[DESC TU]Bu özellik, oyuncunun oyun dünyasını etkileyen ahlaki<br> kararlar almasına olanak tanır.
+[NAME FR]Choix Multiples
+[DESC FR]Cette fonctionnalité permet au joueur de prendre des décisions<br>moral qui affectent le monde du jeu.
+[NAME PB]Mecânicas morais
+[DESC PB]Esse recurso permite que o jogador tome<br>decisões que afetam o mundo do jogo.
+[NAME CT]道德機制
+[DESC CT]玩家的道德決擇<br>將影響遊戲世界的進程
+[NAME HU]Morálmechanika
+[DESC HU]Ez a funkció lehetővé teszi a játékos számára, hogy morális döntéseket hozzon, amelyek befolyásolják a játék világát és befejezését is.
+[NAME ES]Mecánica de la moral
+[DESC ES]Esta característica permite al jugador hacer moraleja.<br>decisiones que afectan el mundo del juego.
+[NAME CZ]Mechanika morálky
+[DESC CZ]Tato funkce umožňuje hráči provádět morální<br>rozhodnutí, která ovlivňují herní svět.
+[NAME KO]사기 시스템
+[DESC KO]This feature allows the player to make moral<br>decisions that affect the game world.
+[DATE]MAR 1994
+[RES POINTS]450
+[PRICE]90000
+[DEV COSTS]50000
+[PIC]
+[GAMEPLAY]100
+[GRAPHIC]0
+[SOUND]0
+[TECH]60
+
+[ID]27
+[TYP]6
+[NAME EN]Voice Over
+[NAME GE]Voice Over
+[NAME CH]语音
+[NAME TU]Sesli İletişim
+[DESC EN]With Voice-Over, players can communicate via headset.
+[DESC GE]Mit Voice-Over können sich Spieler<br>per Headset unterhalten.
+[DESC CH]语音系统，玩家可以通过耳机进行交流.
+[DESC TU]Sesli İletişim ile oyuncular kulaklık aracılığıyla iletişim kurabilir.
+[NAME FR]Chat Vocal
+[DESC FR]Les joueurs peuvent communiquer via un casque.
+[NAME PB]Narração
+[DESC PB]Com o Voice-Over, os jogadores podem se comunicar via fone de ouvido.
+[NAME CT]話音
+[DESC CT]用耳機與玩家溝通
+[NAME HU]Hangcsevegés
+[DESC HU]A hangcsevegéssel a játékos fülhallgatón keresztül kommunikálhat.
+[NAME ES]Voice Over
+[DESC ES]Con Voice-Over, los jugadores pueden comunicarse a través de auriculares.
+[NAME CZ]Hlasová komunikace
+[DESC CZ]Tato funkce umožňuje hráčům komunikovat mezi sebou pomocí sluchátek.
+[NAME KO]음성 채팅
+[DESC KO]With Voice-Over, players can communicate via headset.
+[DATE]APR 1995
+[RES POINTS]475
+[PRICE]95000
+[DEV COSTS]52000
+[PIC]
+[GAMEPLAY]70
+[GRAPHIC]0
+[SOUND]30
+[TECH]70
+
+[ID]28
+[TYP]4
+[NAME EN]See Replay Function
+[NAME GE]See Replay Funktion
+[NAME CH]回放功能
+[NAME TU]Yeniden Oynatma İşlevi
+[DESC EN]This function allows you to view a game recording.
+[DESC GE]Diese Funktion erlaubt es<br>eine Spielaufzeichnung anzusehen.
+[DESC CH]此功能可让您查看游戏回放.
+[DESC TU]Bu fonksiyon, bir oyun kaydını görüntülemenizi sağlar.
+[NAME FR]Replay
+[DESC FR]Permet de visualiser un enregistrement de jeu.
+[NAME PB]Função replay
+[DESC PB]Esta função permite que você visualize um replay gravado.
+[NAME CT]重播功能
+[DESC CT]可以播放遊玩紀錄
+[NAME HU]Visszajátszási funkció
+[DESC HU]Ez a funkció lehetővé teszi a játék felvételének megtekintését.
+[NAME ES]Ver función de reproducción
+[DESC ES]Esta función le permite ver la grabación de un juego.
+[NAME CZ]Funkce Replay
+[DESC CZ]Tato funkce umožňuje zobrazit záznam hry.
+[NAME KO]리플레이 기능
+[DESC KO]This function allows you to view a game recording.
+[DATE]MAY 1995
+[RES POINTS]475
+[PRICE]95000
+[DEV COSTS]52000
+[PIC]
+[GAMEPLAY]70
+[GRAPHIC]0
+[SOUND]0
+[TECH]100
+
+[ID]29
+[TYP]3
+[NAME EN]Dynamic & Destructible World
+[NAME GE]Dynamische & Zerstörbare Welt
+[NAME CH]动态的真实世界
+[NAME TU]Dinamik ve Yıkılabilir Dünya
+[DESC EN]Since the player can change the environment<br>with his actions, the game world<br>looks more realistic.
+[DESC GE]Da der Spieler Einfluss auf die Umgebung nehmen kann,<br>wirkt die Spielwelt realistischer.
+[DESC CH]允许玩家改变游戏世界环境<br>自由探索，游戏世界<br>玩起来更加真实，代入感更强.
+[DESC TU]Oyuncu eylemleriyle<br> ortamı değiştirebildiği için, oyun dünyası<br> daha gerçekçi görünür.
+[NAME FR]Monde Dynamique
+[DESC FR]Puisque le joueur peut changer l'environnement<br>avec ses actions, le monde du jeu<br>semble plus réaliste.
+[NAME PB]Mundo dinâmico e destrutível
+[DESC PB]Quando o jogador pode mudar o ambiente<br>com suas ações, o mundo do jogo<br>parece mais realista.
+[NAME CT]動態世界
+[DESC CT]玩家的行動可以改變環境，<br>遊戲世界變得更逼真
+[NAME HU]Dinamikus és rombolható világ
+[DESC HU]Mivel a játékos cselekedeteivel megváltoztathatja a környezetet <br> a játék világa valósághűbbnek tűnik.
+[NAME ES]Mundo dinámico y destructible
+[DESC ES]Dado que el jugador puede cambiar el entorno<br>con sus acciones, el mundo del juego<br>parece más realista.
+[NAME CZ]Dynamický a zničitelný svět
+[DESC CZ]Díky tomu, že může hráč měnit prostředí ve hře<br>svými interakcemi, vypadá herní svět<br>realističtěji.
+[NAME KO]역동적이고 파괴가능한 세계
+[DESC KO]Since the player can change the environment<br>with his actions, the game world<br>looks more realistic.
+[DATE]JUN 1996
+[RES POINTS]500
+[PRICE]100000
+[DEV COSTS]55000
+[PIC]
+[GAMEPLAY]60
+[GRAPHIC]60
+[SOUND]0
+[TECH]60
+
+[ID]30
+[TYP]4
+[NAME EN]Mod Support
+[NAME GE]Mod Support
+[NAME CH]支持游戏补丁
+[NAME TU]Mod Desteği
+[DESC EN]With this feature it is possible to<br>add new content to the game.
+[DESC GE]Mit diesem Feature ist es möglich,<br>dem Spiel neuen Inhalt hinzuzufügen.
+[DESC CH]有了这个功能，就可以<br>让玩家自行增添游戏新内容.
+[DESC TU]Bu özellikle<br> oyuncular oyuna yeni içerik ekleyebilir.
+[NAME FR]Support de Mods
+[DESC FR]Avec cette fonction, il est possible de créer<br>et d'ajouter du nouveau contenu au jeu.
+[NAME PB]Suporte para Mod
+[DESC PB]Com este recurso é possível<br>adicionar novos conteúdos ao jogo.
+[NAME CT]模組支援
+[DESC CT]這個功能可以<br>加入新內容到遊戲
+[NAME HU]Mod támogatás
+[DESC HU]Ezzel a funkcióval új tartalmat adhat hozzá a játékos.
+[NAME ES]Soporte Mod
+[DESC ES]Con esta característica es posible<br>agrega contenido nuevo al juego.
+[NAME CZ]Podpora modů
+[DESC CZ]Díky této funkci je umožněno hráčům<br>přidávat do hry vlastní obsah.
+[NAME KO]모드 지원
+[DESC KO]With this feature it is possible to<br>add new content to the game.
+[DATE]JUL 1997
+[RES POINTS]520
+[PRICE]105000
+[DEV COSTS]58000
+[PIC]
+[GAMEPLAY]60
+[GRAPHIC]0
+[SOUND]0
+[TECH]130
+
+[ID]31
+[TYP]6
+[NAME EN]Online Leaderboards
+[NAME GE]Online Bestenlisten
+[NAME CH]全服排行榜
+[NAME TU]Çevrimiçi Sıralama
+[DESC EN]Players from all over the world can<br>be entered in an online leaderboard.
+[DESC GE]Spieler auf der ganzen Welt,<br>können sich in einer Online-Bestenliste<br>übertrumpfen.
+[DESC CH]来自世界各地的玩家可以<br>一起竞争全服最强称号.
+[DESC TU]Dünyanın her yerinden oyuncular<br> bir çevrimiçi liderlik tablosuna girebilir.
+[NAME FR]Classement en Ligne
+[DESC FR]Les joueurs du monde entier peuvent<br>être inscrits dans un classement en ligne.
+[NAME PB]Placar online
+[DESC PB]Jogadores de todo o mundo podem<br>ser inscritos em uma tabela de classificação online.
+[NAME CT]線上排行榜
+[DESC CT]全世界的玩家都可以<br>較量世界排名高低
+[NAME HU]Online ranglisták
+[DESC HU]A világ minden tájáról a játékosok részt vehetnek egy online ranglistán.
+[NAME ES]Tablas de clasificación online
+[DESC ES]Los jugadores de todo el mundo pueden<br>entrar en una tabla de clasificación en línea.
+[NAME CZ]Online žebříček
+[DESC CZ]Hráči z celého světa bojují o přední příčky online žebříčku.
+[NAME KO]온라인 랭킹
+[DESC KO]Players from all over the world can<br>be entered in an online leaderboard.
+[DATE]AUG 1997
+[RES POINTS]520
+[PRICE]105000
+[DEV COSTS]58000
+[PIC]
+[GAMEPLAY]100
+[GRAPHIC]0
+[SOUND]0
+[TECH]90
+
+[ID]32
+[TYP]4
+[NAME EN]Interactive Story
+[NAME GE]Interaktive Story
+[NAME CH]交互式剧情
+[NAME TU]Etkileşimli Hikaye
+[DESC EN]An interactive story is no longer scripted<br>linearly and runs completely unexpectedly.
+[DESC GE]Eine interaktive Story nimmt Abstand<br>von linear gescripteten Spielgeschichten<br>und verläuft völlig unerwartet.
+[DESC CH]交互式剧情不再是剧本那样一根筋<br>而是让玩家全局掌控剧情发展，是不是会让人出乎意料呢.
+[DESC TU]Etkileşimli bir hikaye artık doğrusal olarak yazılmıyor<br> ve tamamen beklenmedik şekilde çalışıyor.
+[NAME FR]Histoire Interactive
+[DESC FR]Une histoire interactive n'est plus scénarisée<br>linéairement et fonctionne de manière complètement inattendue.
+[NAME PB]História interativa
+[DESC PB]Uma história interativa não é mais programada<br>linearmente e é executada de forma totalmente inesperada.
+[NAME CT]互動劇情
+[DESC CT]劇情沒有固定的劇本<br>劇情可以有意想不到的進展
+[NAME HU]Interaktív történet
+[DESC HU]Az interaktív történeteket már nem lineárisan írják le és teljesen váratlanul futnak párhuzamosan a kampánnyal.
+[NAME ES]Historia interactiva
+[DESC ES]Una historia interactiva ya no está escrita<br>linealmente y se ejecuta de forma completamente inesperada.
+[NAME CZ]Interaktivní příběh
+[DESC CZ]Interaktivní příběh již není psán<br>lineárně ba naopak vyvýjí se zcela neočekávaně.
+[NAME KO]대화형 스토리
+[DESC KO]An interactive story is no longer scripted<br>linearly and runs completely unexpectedly.
+[DATE]SEP 1998
+[RES POINTS]550
+[PRICE]110000
+[DEV COSTS]60000
+[PIC]
+[GAMEPLAY]100
+[GRAPHIC]0
+[SOUND]0
+[TECH]100
+
+[ID]33
+[TYP]4
+[NAME EN]Level Streaming
+[NAME GE]Level Streaming
+[NAME CH]减少加载时间
+[NAME TU]Seviye Akışı
+[DESC EN]This feature minimizes the loading<br>time of new levels to a minimum.
+[DESC GE]Dieses Feature minimiert die Ladezeiten<br>neuer Levels auf ein Minimum.
+[DESC CH]可以最大限度地减少游戏加载时间<br>把新关卡的加载时间降到最低.
+[DESC TU]Bu özellik, yeni seviyelerin yükleme süresini<br> minimuma indirir.
+[NAME FR]Chargement Rapide
+[DESC FR]Cette fonction minimise le chargement<br> de nouveaux niveaux.
+[NAME PB]Carregamento rápido
+[DESC PB]Este recurso minimiza o tempo de carregamento de novos mapas.
+[NAME CT]串流關卡
+[DESC CT]這個功能將讀取關卡的時間減至最低
+[NAME HU]Szint streamelés
+[DESC HU]Ez a funkció minimálisra csökkenti az új szintek betöltési idejét.
+[NAME ES]Transmisión de nivel
+[DESC ES]Esta característica minimiza la carga<br>tiempo de nuevos niveles al mínimo.
+[NAME CZ]Zrychlení načítání
+[DESC CZ]Tato funkce minimalizuje čas načítání nových úrovní na minimum.
+[NAME KO]레벨 스트리밍
+[DESC KO]이 기능은 새 레벨의 로딩 시간을<br>최소한으로 줄입니다.
+[DATE]OCT 1999
+[RES POINTS]600
+[PRICE]115000
+[DEV COSTS]62000
+[PIC]
+[GAMEPLAY]0
+[GRAPHIC]0
+[SOUND]0
+[TECH]210
+
+[ID]34
+[TYP]4
+[NAME EN]Sandbox Mode
+[NAME GE]Sandbox-Modus
+[NAME CH]沙盒模式
+[NAME TU]Sandbox Mod
+[DESC EN]In a sandbox mode the game can be played<br>freely and without strict rules.
+[DESC GE]In einem Sandbox-Modus kann das Spiel<br>frei und ohne strikten Regeln gespielt werden.
+[DESC CH]可以在沙盒模式下，进行游戏<br>玩家可以无拘无束地操作.
+[DESC TU]Sandbox modunda oyun serbestçe<br> ve katı kurallar olmadan oynanabilir.
+[NAME FR]Bac à Sable
+[DESC FR]Dans un mode bac à sable, le jeu peut être joué<br>librement et sans règles strictes.
+[NAME PB]Modo sandbox
+[DESC PB]No modo sandbox, o jogo pode ser jogado<br>livremente e sem regras rígidas.
+[NAME CT]沙盒模式
+[DESC CT]玩家可以在遊戲的沙盒模式，<br>不用跟從固定的規則去玩遊戲
+[NAME HU]Szabad kóborlás
+[DESC HU]Itt minden szabályok nélkül müködik, itt a játékosok kedvükre mehetnek bárhova a játék világain belül.
+[NAME ES]modo sandbox
+[DESC ES]En un modo sandbox, el juego se puede jugar<br>libremente y sin reglas estrictas.
+[NAME CZ]Sandbox mód
+[DESC CZ]V sandbox módu se může hrát hra zcela bez pravidel a vše je zdarma.
+[NAME KO]샌드박스 모드
+[DESC KO]In a sandbox mode the game can be played<br>freely and without strict rules.
+[DATE]NOV 2000
+[RES POINTS]620
+[PRICE]120000
+[DEV COSTS]65000
+[PIC]
+[GAMEPLAY]110
+[GRAPHIC]0
+[SOUND]0
+[TECH]110
+
+[ID]35
+[TYP]6
+[NAME EN]Social Media Integration
+[NAME GE]Social Media Integration
+[NAME CH]社交软件分享
+[NAME TU]Sosyal Medya Entegrasyonu
+[DESC EN]This feature makes it possible to<br>share the gaming experience<br>on different social media channels.
+[DESC GE]Dieses Feature ermöglicht es,<br>die Spielerfahrung über unterschiedliche<br>Sozial-Media-Kanäle zu teilen.
+[DESC CH]允许玩家<br>分享游戏攻略<br>在不同的社交软件上.
+[DESC TU]Bu özellik, oyun deneyimini<br> farklı sosyal medya kanallarında<br> paylaşmayı mümkün kılar.
+[NAME FR]Intégration Réseaux Sociaux
+[DESC FR]Cette fonctionnalité permet de<br>partager l'expérience de jeu<br>sur différents canaux de médias sociaux.
+[NAME PB]Integração de mídia social
+[DESC PB]Este recurso possibilita<br>compartilhar a experiência de jogo<br>em diferentes canais de mídia social.
+[NAME CT]社交媒體整合
+[DESC CT]可以在不同的社交網絡平台，<br>分享遊戲體驗
+[NAME HU]A közösségi média integrációja
+[DESC HU]Ez a funkció lehetővé teszi a játékélmény megosztását <br> a különböző közösségi média csatornákon.
+[NAME ES]Integración de redes sociales
+[DESC ES]Esta característica hace posible<br>compartir la experiencia de juego<br>en diferentes canales de redes sociales.
+[NAME CZ]Integrace sociálních médií
+[DESC CZ]Tato funkce umožňuje<br>sdílet herní zážitek<br>na různých kanálech sociálních médií.
+[NAME KO]소설 미디어 통합
+[DESC KO]이 기능을 통해 다양한 소셜 미디어 채널에서 게임 경험을 공유할 수 있습니다.
+[DATE]DEC 2005
+[RES POINTS]720
+[PRICE]150000
+[DEV COSTS]78000
+[PIC]
+[GAMEPLAY]100
+[GRAPHIC]0
+[SOUND]0
+[TECH]170
+
+[ID]36
+[TYP]4
+[NAME EN]Cloud Service
+[NAME GE]Cloud Service
+[NAME CH]云服务
+[NAME TU]Bulut Hizmeti
+[DESC EN]This feature can be used, for example,<br>to share save games on different platforms.
+[DESC GE]Mit diesem Feature können zum Beispiel<br>Spielstände auf unterschiedlichen<br>Plattformen abgerufen werden.
+[DESC CH]该功能允许玩家，分享游戏存档，<br>在不同的平台上共享.
+[DESC TU]Bu özellik, örneğin<br> kaydedilmiş oyunları farklı platformlarda paylaşmak için kullanılabilir.
+[NAME FR]Service Cloud
+[DESC FR]Cette fonction peut être utilisée pour utiliser<br>ses sauvegarde sur différentes plates-formes.
+[NAME PB]Serviço na nuvem
+[DESC PB]Este recurso pode ser usado, por exemplo,<br>para compartilhar jogos salvos em diferentes plataformas.
+[NAME CT]雲端服務
+[DESC CT]這個功能可以分享存檔，<br>到不同的系統
+[NAME HU]Felhőrendszer
+[DESC HU]A felhőrendszernek köszönhetően a mentések bármelyik platformon elmentődnek.
+[NAME ES]Servicio en la nube
+[DESC ES]Esta función se puede utilizar, por ejemplo,<br>para compartir juegos guardados en diferentes plataformas.
+[NAME CZ]Cloudová služba
+[DESC CZ]Tuto funkci lze použít například ke<br>sdílení uložených pozic hry pro jiné platformy.
+[NAME KO]클라우드 서비스
+[DESC KO]This feature can be used, for example,<br>to share save games on different platforms.
+[DATE]JAN 2012
+[RES POINTS]860
+[PRICE]220000
+[DEV COSTS]95000
+[PIC]
+[GAMEPLAY]80
+[GRAPHIC]0
+[SOUND]0
+[TECH]300
+
+[ID]37
+[TYP]5
+[NAME EN]Argumented Reality Support
+[NAME GE]Argumented Reality Support
+[NAME CH]AR增强现实技术
+[NAME TU]Artırılmış Gerçeklik Desteği
+[DESC EN]With Argumented Reality the real world<br>and the game world can be combined.
+[DESC GE]Mit Argumented Reality kann die<br>reale Welt und die Spielwelt miteinander kombiniert werden.
+[DESC CH]AR增强现实技术允许现实世界<br>和游戏世界相结合.
+[DESC TU]Artırılmış Gerçeklik ile gerçek dünya<br> ve oyun dünyası birleştirilebilir.
+[NAME FR]Réalité augmentée
+[DESC FR]Avec la réalité augmentée, le monde réel se combine au monde virtuel.
+[NAME PB]Suporte para realidade aumentada
+[DESC PB]Com a Realidade Aumentada, o mundo real<br>e o mundo do jogo podem ser combinados.
+[NAME CT]擴增實境支援
+[DESC CT]擴增實境將現實整合到遊戲環境
+[NAME HU]Kiterjesztett valóság támogatás
+[DESC HU]A kiterjesztett valóság segítségével a valós világ és a játék világ kombinálható.
+[NAME ES]Soporte de realidad aumentada
+[DESC ES]Con Realidad Aumentada el mundo real<br>y el mundo del juego se puede combinar.
+[NAME CZ]Podpora rozšířené reality
+[DESC CZ]Díky rozšířené realitě lze navzájem<br>kombinovat skutečný svět s herním světem.
+[NAME KO]증강 현실 지원
+[DESC KO]With Argumented Reality the real world<br>and the game world can be combined.
+[DATE]FEB 2015
+[RES POINTS]920
+[PRICE]250000
+[DEV COSTS]102000
+[PIC]
+[GAMEPLAY]220
+[GRAPHIC]0
+[SOUND]0
+[TECH]220
+
+[ID]38
+[TYP]0
+[NAME EN]Day-Night Cycle
+[NAME GE]Tag-Nacht Zyklus
+[NAME CH]昼夜机制
+[NAME TU]Gündüz-Gece Döngüsü
+[DESC EN]A day-night cycle looks good and<br>makes the game world look more real.
+[DESC GE]Ein Tag-Nacht-Zyklus sieht nicht nur gut aus<br>sondern lässt die Spielwelt realer wirken.
+[DESC CH]昼夜循环美观性很好，而且<br>能让游戏世界看起来更真实.
+[DESC TU]Bir gündüz-gece döngüsü iyi görünüyor ve<br> oyun dünyasının daha gerçekçi görünmesini sağlıyor.
+[NAME FR]Cycle Jour/Nuit
+[DESC FR]Un cycle jour-nuit <br>rend le monde du jeu plus vivant.
+[NAME PB]Ciclo dia e noite
+[DESC PB]Um ciclo de dia-noite parece ser bom e<br>torna o mundo do jogo mais real.
+[NAME CT]日夜週期
+[DESC CT]日夜週期很美，<br>還使遊戲世界更現實
+[NAME HU]Nappali-éjszakai ciklus
+[DESC HU]A nappali-éjszakai ciklus jól néz ki és valóságosabbá teszi a játékélményt.
+[NAME ES]Ciclo día-noche
+[DESC ES]Un ciclo de día y noche se ve bien y<br>hace que el mundo del juego parezca más real.
+[NAME CZ]Denní\Noční cyklus
+[DESC CZ]Díky dennímu a nočnímu cyklusu<br>bude herní svět vypadat více realističtěji.
+[NAME KO]낮-밤 주기
+[DESC KO]A day-night cycle looks good and<br>makes the game world look more real.
+[DATE]MAR 1983
+[RES POINTS]175
+[PRICE]35000
+[DEV COSTS]20000
+[PIC]
+[GAMEPLAY]5
+[GRAPHIC]30
+[SOUND]0
+[TECH]20
+
+[ID]39
+[TYP]0
+[NAME EN]Weather Effects
+[NAME GE]Wettereffekte
+[NAME CH]动态天气
+[NAME TU]Hava Efektleri
+[DESC EN]Weather effects enhance the game visually.
+[DESC GE]Wettereffekte werten das Spiel vor allem optisch auf.
+[DESC CH]天气效果增强了游戏世界的视觉效果.
+[DESC TU]Hava efektleri oyunu görsel olarak geliştirir.
+[NAME FR]Effets Météo
+[DESC FR]Les effets météorologiques améliorent visuellement le jeu.
+[NAME PB]Efeitos de clima
+[DESC PB]Os efeitos de clima melhoram o jogo visualmente.
+[NAME CT]氣候效果
+[DESC CT]氣候效果加強遊戲畫面
+[NAME HU]Időjárási hatások
+[DESC HU]Az időjárási hatások vizuálisan javítják a játékot.
+[NAME ES]Efectos del clima
+[DESC ES]Los efectos meteorológicos mejoran el juego visualmente.
+[NAME CZ]Efekty počasí
+[DESC CZ]Efekty počasí vylepšují vizuální stránku hry.
+[NAME KO]날씨 효과
+[DESC KO]Weather effects enhance the game visually.
+[DATE]APR 1994
+[RES POINTS]450
+[PRICE]90000
+[DEV COSTS]50000
+[PIC]
+[GAMEPLAY]30
+[GRAPHIC]100
+[SOUND]0
+[TECH]30
+
+[ID]40
+[TYP]0
+[NAME EN]Cut scenes
+[NAME GE]Zwischensequenzen
+[NAME CH]过场动画
+[NAME TU]Ara Sahne
+[DESC EN]Cut scenes are perfect for telling<br>the story of the game.
+[DESC GE]Zwischensequenzen eignen sich hervorragend<br>um die Geschichte des Spiels voran zu treiben.
+[DESC CH]过场动画非常适合描述<br>游戏剧情.
+[DESC TU]Ara sahneler oyunun hikayesini anlatmak için mükemmeldir.
+[NAME FR]Cinématiques
+[DESC FR]Les cinématiques sont parfaites pour raconter<br>l'histoire du jeu.
+[NAME PB]Cutscenes
+[DESC PB]As cutscenes são perfeitas para<br>contar a história do jogo.
+[NAME CT]事件動畫
+[DESC CT]事件動畫能完美的交待遊戲故事
+[NAME HU]Átvezető
+[DESC HU]Az átvezetővideók tökéletes a történet elmesélésére.
+[NAME ES]Cortar escenas
+[DESC ES]Las escenas de corte son perfectas para contar<br>la historia del juego.
+[NAME CZ]Filmové scény
+[DESC CZ]Filmové scény jsou velkým<br>plusem po vizuální stránce hry<br>a zaroveň pomáhají rozvíjet příběh hry.
+[NAME KO]컷 씬
+[DESC KO]Cut scenes are perfect for telling<br>the story of the game.
+[DATE]MAY 1987
+[RES POINTS]275
+[PRICE]55000
+[DEV COSTS]33000
+[PIC]
+[GAMEPLAY]10
+[GRAPHIC]70
+[SOUND]0
+[TECH]10
+
+[ID]41
+[TYP]1
+[NAME EN]Voice Output
+[NAME GE]Sprachausgabe
+[NAME CH]支持语音
+[NAME TU]Ses Çıkışı
+[DESC EN]With this feature the player is no，<br>longer forced to read all texts.
+[DESC GE]Mit diesem Feature ist der Spieler<br>nicht mehr gezwungen sämtliche Texte<br>zu lesen.
+[DESC CH]有了这个功能，玩家就不会<br>被迫阅读所有的文本.
+[DESC TU]Bu özellikle, oyuncu artık tüm metinleri okumaya zorlanmaz.
+[NAME FR]Sortie Vocale
+[DESC FR]Avec cette fonctionnalité, le joueur n'est<br>plus obligé de lire tous les textes.
+[NAME PB]Saída de voz
+[DESC PB]Com este recurso, o jogador não é<br>mais forçado a ler todos os textos.
+[NAME CT]配音
+[DESC CT]這個功能讓玩家<br>不再需要閱讀所有文字
+[NAME HU]Hangkimenet
+[DESC HU]Ezzel a funkcióval a játékosnak már nem muszály <br>felolvasnia minden feliratot.
+[NAME ES]Salida de voz
+[DESC ES]Con esta función, el jugador es no,<br>ya obligado a leer todos los textos.
+[NAME CZ]Hlasový výstup
+[DESC CZ]Díky této funkci již není hráč nucen číst ani psát všechen text v chatu.
+[NAME KO]음성 출력
+[DESC KO]With this feature the player is no，<br>longer forced to read all texts.
+[DATE]JUN 1985
+[RES POINTS]220
+[PRICE]45000
+[DEV COSTS]28000
+[PIC]
+[GAMEPLAY]10
+[GRAPHIC]0
+[SOUND]50
+[TECH]10
+
+[ID]42
+[TYP]1
+[NAME EN]Dynamic Music
+[NAME GE]Dynamische Musik
+[NAME CH]动态音乐
+[NAME TU]Dinamik Müzik
+[DESC EN]A dynamic music changes depending<br>on the situation in the game.
+[DESC GE]Eine dynamische Musik passt sich dem<br>Spielgeschehen an.
+[DESC CH]动态音乐的变化取决于<br>游戏世界所发生的情况.
+[DESC TU]Dinamik müzik, oyundaki duruma bağlı olarak<br> değişir.
+[NAME FR]Musique Dynamique
+[DESC FR]Une musique dynamique évolue en fonction<br>sur la situation dans le jeu.
+[NAME PB]Música dinâmica
+[DESC PB]Uma música dinâmica que<br>muda dependendo da situação no jogo.
+[NAME CT]動態音樂
+[DESC CT]動態音樂將根據遊戲的情況發生變動
+[NAME HU]Dinamikus zene
+[DESC HU]A dinamikus zene a játék helyzetétől függően változik.
+[NAME ES]Música dinámica
+[DESC ES]Una música dinámica cambia dependiendo<br>sobre la situación en el juego.
+[NAME CZ]Dynamická hudba
+[DESC CZ]Dynamická hudba se mění v závislosti na určitých scénách ve hře.
+[NAME KO]달라지는 음악
+[DESC KO]A dynamic music changes depending<br>on the situation in the game.
+[DATE]JUL 1988
+[RES POINTS]300
+[PRICE]60000
+[DEV COSTS]35000
+[PIC]
+[GAMEPLAY]10
+[GRAPHIC]0
+[SOUND]80
+[TECH]10
+
+[ID]43
+[TYP]1
+[NAME EN]Orchestral Soundtrack
+[NAME GE]Orchestral Soundtrack
+[NAME CH]管弦乐配音
+[NAME TU]Orkestra Müziği
+[DESC EN]Orchestral music has a strong effect on the player. 
+[DESC GE]Orchestrale Musik wirkt stark auf den Spieler ein.
+[DESC CH]管弦乐对玩家有很大的影响. 
+[DESC TU]Orkestra müziği, oyuncu üzerinde güçlü bir etkiye sahiptir.
+[NAME FR]Bande sonore orchestrale
+[DESC FR]La musique orchestrale a un fort effet sur le joueur.
+[NAME PB]Trilha sonora orquestral
+[DESC PB]A música orquestral tem um<br>forte efeito no auto-falante.
+[NAME CT]管弦曲目
+[DESC CT]管弦音樂對玩家有很大影響
+[NAME HU]Koncertzene
+[DESC HU]A koncertzene erős hatással van a játékosra.
+[NAME ES]Banda sonora orquestal
+[DESC ES]La música orquestal tiene un fuerte efecto en el jugador.
+[NAME CZ]Orchestrální soundtrack
+[DESC CZ]Orchestrální hudba má na hráče silný vliv.
+[NAME KO]오케스트라 사운드트랙
+[DESC KO]Orchestral music has a strong effect on the player. 
+[DATE]AUG 1992
+[RES POINTS]400
+[PRICE]80000
+[DEV COSTS]45000
+[PIC]
+[GAMEPLAY]20
+[GRAPHIC]0
+[SOUND]100
+[TECH]20
+
+[ID]44
+[TYP]5
+[NAME EN]Keyboard Support
+[NAME GE]Tastatur Support
+[NAME CH]支持键盘
+[NAME TU]Klavye Desteği
+[DESC EN]This feature allows you to<br>control the game with a keyboard.
+[DESC GE]Dieses Feature erlaubt es,<br>das Spiel mit einer Tastatur zu bedienen.
+[DESC CH]允许玩家<br>用键盘打游戏.
+[DESC TU]Bu özellik, oyunu bir klavye ile<br> kontrol etmenizi sağlar.
+[NAME FR]Support Clavier
+[DESC FR]Permet de contrôler le jeu avec un clavier.
+[NAME PB]Suporte para teclado
+[DESC PB]Este recurso permite que você<br>controle o jogo com um teclado.
+[NAME CT]鍵盤支援
+[DESC CT]允許玩家使用鍵盤進行遊戲
+[NAME HU]Billentyűzet támogatás
+[DESC HU]Ezzel a funkcióval <be> már billentyűzettel is vezérelheti a játékot a játékos.
+[NAME ES]Compatibilidad con teclado
+[DESC ES]Esta característica le permite<br>Controla el juego con un teclado.
+[NAME CZ]Podpora klávesnice
+[DESC CZ]Tato funkce umožňuje<br>ovládat hru pomocí klávesnice.
+[NAME KO]키보드 지원
+[DESC KO]This feature allows you to<br>control the game with a keyboard.
+[DATE]JAN 1976
+[RES POINTS]0
+[PRICE]0
+[DEV COSTS]2000
+[PIC]
+[GAMEPLAY]5
+[GRAPHIC]0
+[SOUND]0
+[TECH]5
+
+[ID]45
+[TYP]5
+[NAME EN]Controller Support
+[NAME GE]Controller Support
+[NAME CH]支持初级手柄
+[NAME TU]Kontrolcü Desteği
+[DESC EN]This feature allows you to<br>control the game with a game controller.
+[DESC GE]Dieses Feature erlaubt es,<br>das Spiel mit einem Controller zu bedienen.
+[DESC CH]允许玩家<br>使用初级手柄玩游戏.
+[DESC TU]Bu özellik, oyunu bir oyun kontrolcüyle<br> kontrol etmenize olanak sağlar.
+[NAME FR]Support Manette
+[DESC FR]Permet de contrôler le jeu avec une manette.
+[NAME PB]Suporte para controle
+[DESC PB]Este recurso permite que você<br>controle o jogo com um controle.
+[NAME CT]手掣支援
+[DESC CT]允許玩家使用手掣進行遊戲
+[NAME HU]Kontroller támogatás
+[DESC HU]Ezzel a funkcióval <be> már kontrollerrel is vezérelheti a játékot a játékos.
+[NAME ES]Soporte del controlador
+[DESC ES]Esta característica le permite<br>Controla el juego con un dispositivo de juego.
+[NAME CZ]Podpora ovladače
+[DESC CZ]Tato funkce umožňuje<br>ovládat hru pomocí ovladače.
+[NAME KO]컨트롤러 지원
+[DESC KO]This feature allows you to<br>control the game with a game controller.
+[DATE]JAN 1976
+[RES POINTS]25
+[PRICE]5000
+[DEV COSTS]3000
+[PIC]
+[GAMEPLAY]5
+[GRAPHIC]0
+[SOUND]0
+[TECH]5
+
+[ID]46
+[TYP]5
+[NAME EN]Laser Pistols Support
+[NAME GE]Laser-Pistolen Support
+[NAME CH]支持玩具枪操作
+[NAME TU]Lazer Tabanca Desteği
+[DESC EN]With this feature, objects on the<br>screen can be shot with a toy gun.
+[DESC GE]Mit diesem Feature können Objekte<br>auf dem Bildschirm mittels<br>einer Spielzeugpistole ins Ziel genommen werden.
+[DESC CH]有了这个功能，玩具枪就可以在<br>屏幕上射击.
+[DESC TU]Bu özellik sayesinde, ekran üzerindeki nesneler bir oyuncak tabanca ile vurulabilir.
+[NAME FR]Support Pistolet Laser
+[DESC FR]Avec cette fonction, les objets sur<br>l'écran peuvent être visés avec un pistolet jouet.
+[NAME PB]Suporte para pistolas laser
+[DESC PB]Com esse recurso, os objetos na tela<br>podem ser ativados com uma arma de brinquedo.
+[NAME CT]雷射鎗支援
+[DESC CT]允許玩家使用玩具鎗，<br>在畫面進行射擊
+[NAME HU]Lézerpisztolyok támogatása
+[DESC HU]Ezzel a funkcióval a  képernyőn lévő tárgyakat játékfegyverrel is lehet mostantól lőni.
+[NAME ES]Soporte de pistolas láser
+[DESC ES]Con esta función, los objetos en el<br>La pantalla se puede disparar con una pistola de juguete.
+[NAME CZ]Podpora laserových pistolí
+[DESC CZ]Díky této funkci lze objekty<br>na obrazovce střílet pomocí<br>elektronické napodobeniny pistole.
+[NAME KO]레이저 총 컨트롤러 지원
+[DESC KO]With this feature, objects on the<br>screen can be shot with a toy gun.
+[DATE]APR 1983
+[RES POINTS]175
+[PRICE]35000
+[DEV COSTS]20000
+[PIC]
+[GAMEPLAY]15
+[GRAPHIC]0
+[SOUND]0
+[TECH]40
+
+[ID]47
+[TYP]5
+[NAME EN]Mouse Support
+[NAME GE]Mouse Support
+[NAME CH]支持鼠标
+[NAME TU]Fare Desteği
+[DESC EN]This feature allows you to control<br>the game with a computer mouse.
+[DESC GE]Dieses Feature erlaubt es,<br>das Spiel mit einer Computer-Mouse zu bedienen.
+[DESC CH]允许玩家使用<br>电脑鼠标打游戏.
+[DESC TU]Bu özellik, oyunu bir bilgisayar faresi ile<br> kontrol etmenizi sağlar.
+[NAME FR]Support Souris
+[DESC FR]Permet de contrôler le jeu avec une souris d'ordinateur.
+[NAME PB]Suporte para mouse
+[DESC PB]Este recurso permite que você controle<br>o jogo com um mouse de computador.
+[NAME CT]滑鼠支援
+[DESC CT]允許玩家使用滑鼠進行遊戲
+[NAME HU]Egér támogatás
+[DESC HU]Ezzel a funkcióval <be> már egérrel is vezérelheti a játékot a játékos.
+[NAME ES]Soporte de mouse
+[DESC ES]Esta función le permite controlar<br>el juego con un mouse de computadora.
+[NAME CZ]Podpora myši
+[DESC CZ]Tato funkce umožňuje<br>ovládat hru pomocí myši.
+[NAME KO]마우스 지원
+[DESC KO]This feature allows you to control<br>the game with a computer mouse.
+[DATE]MAY 1984
+[RES POINTS]200
+[PRICE]40000
+[DEV COSTS]25000
+[PIC]
+[GAMEPLAY]30
+[GRAPHIC]0
+[SOUND]0
+[TECH]30
+
+[ID]48
+[TYP]5
+[NAME EN]Adjustable Controls
+[NAME GE]Einstellbare Steuerung
+[NAME CH]自定义控制
+[NAME TU]Ayarlanabilir Kontroller
+[DESC EN]This feature allows the player to configure<br>his preferred input scheme by himself.
+[DESC GE]Durch dieses Feature kann der Spieler<br>seine bevorzugte Steuerung selbst konfigurieren.
+[DESC CH]允许玩家设置<br>自己喜欢的输入按钮.
+[DESC TU]Bu özellik, oyuncunun<br> kendi tercih ettiği giriş şemasını yapılandırmasına olanak tanır.
+[NAME FR]Contrôles Réglables
+[DESC FR]Permet au joueur de configurer ses propres commandes.
+[NAME PB]Controles Ajustável
+[DESC PB]Este recurso permite que o jogador configure<br>seu controle preferido sozinho.
+[NAME CT]可調整控制
+[DESC CT]允許玩家根據自己的喜好來調整輸入設定
+[NAME HU]Allítható irányítás
+[DESC HU]Ez a funkció lehetővé teszi a játékos számára, hogy saját maga konfigurálja a kívánt irányítási sémát.
+[NAME ES]Controles ajustables
+[DESC ES]Esta característica permite al jugador configurar<br>su esquema de entrada preferido por él mismo.
+[NAME CZ]Nastavitelné tlačítka ovládání
+[DESC CZ]Tato funkce umožňuje hráči konfigurovat své preferované vstupní schéma.
+[NAME KO]조절 가능한 컨트롤
+[DESC KO]이 기능을 통해 플레이어는 자신이 원하는 입력 장치를 직접 구성할 수 있습니다.
+[DATE]JUN 1989
+[RES POINTS]320
+[PRICE]65000
+[DEV COSTS]38000
+[PIC]
+[GAMEPLAY]20
+[GRAPHIC]0
+[SOUND]0
+[TECH]90
+
+[ID]49
+[TYP]5
+[NAME EN]Wheel Support
+[NAME GE]Lenkrad Support
+[NAME CH]支持方向盘
+[NAME TU]Direksiyon Desteği
+[DESC EN]The support of steering wheels is<br>especially popular in racing games. 
+[DESC GE]Die Unterstützung von Lenkrädern<br>ist vor allem bei Rennsimulationen beliebt. 
+[DESC CH]方向盘的支持<br>对赛车游戏体验很好.
+[DESC TU]Direksiyon desteği, özellikle yarış oyunlarında<br> popülerdir.
+[NAME FR]Support Volant
+[DESC FR]Le support des volants est<br>particulièrement populaire dans les jeux de course.
+[NAME PB]Suporte para volantes
+[DESC PB]O suporte para volantes é<br>muito popular em jogos de corrida.
+[NAME CT]方向盤支援
+[DESC CT]方向盤在賽車遊戲特別受歡迎
+[NAME HU]Kormánykerék támogatás
+[DESC HU]A kormánykerék támogatása különösen népszerű a versenyjátékokban.
+[NAME ES]Soporte de volantes
+[DESC ES]El apoyo de los volantes es<br>especialmente popular en los juegos de carreras.
+[NAME CZ]Podpora volantu
+[DESC CZ]Podpora volantů je obzvláště důležitá při hraní závodních hrách.
+[NAME KO]휠 지원
+[DESC KO]The support of steering wheels is<br>especially popular in racing games.
+[DATE]JUL 1990
+[RES POINTS]350
+[PRICE]70000
+[DEV COSTS]40000
+[PIC]
+[GAMEPLAY]60
+[GRAPHIC]0
+[SOUND]0
+[TECH]60
+
+[ID]50
+[TYP]5
+[NAME EN]Force Feedback
+[NAME GE]Force-Feedback
+[NAME CH]按键反馈
+[NAME TU]Güç Geri Bildirimi
+[DESC EN]Force feedback is a technique for providing<br>mechanical feedback on events in the game.
+[DESC GE]Mittels Force-Feedback ist es möglich<br>das Spielgeschehen bis in die Hände auszuweiten.
+[DESC CH]按键反馈支持<br>游戏世界中发生事件的人体感触.
+[DESC TU]Güç geri bildirimi, oyundaki olaylar hakkında<br> mekanik geri bildirim sağlamaya yönelik bir tekniktir.
+[NAME FR]Retour de Force
+[DESC FR]Le retour de force est une technique pour fournir un<br>retour mécanique sur les événements du jeu.
+[NAME PB]Force Feedback
+[DESC PB]O Force Feedback é uma forma usada para fornecer<br>feedback<br>sobre eventos no jogo.
+[NAME CT]強力反饋
+[DESC CT]強力反饋為遊戲的事件，<br>提供手掣的震動反饋
+[NAME HU]Visszajelzés kényszerítés
+[DESC HU]A visszajelzés kényszerítés egy olyan technika, amely mechanikus visszajelzést ad a játék eseményeiről.
+[NAME ES]Force Feedback
+[DESC ES]Force Feedback es una técnica para proporcionar<br>retroalimentación mecánica sobre eventos en el juego.
+[NAME CZ]Vynutit zpětnou vazbu
+[DESC CZ]Vynucená zpětná vazba je technika zajišťující<br>zprávu o veškerých událostech a dění ve hře.
+[NAME KO]진동 지원
+[DESC KO]Force feedback is a technique for providing<br>mechanical feedback on events in the game.
+[DATE]AUG 1992
+[RES POINTS]400
+[PRICE]80000
+[DEV COSTS]45000
+[PIC]
+[GAMEPLAY]40
+[GRAPHIC]0
+[SOUND]0
+[TECH]100
+
+[ID]51
+[TYP]5
+[NAME EN]Modern Controller Support
+[NAME GE]Modern Controller Support
+[NAME CH]支持高级手柄
+[NAME TU]Modern Kontrolcü Desteği
+[DESC EN]This feature allows you to play the game with modern game controllers.
+[DESC GE]Dieses Feature erlaubt es,<br>das Spiel mit modernen Controllern zu bedienen.
+[DESC CH]允许玩家使用高级手柄打游戏.
+[DESC TU]Bu özellik, oyunu modern oyun kontrolcüleri ile oynamanıza izin verir.
+[NAME FR]Support Manette Moderne
+[DESC FR]Permet de jouer au jeu avec des manettes modernes.
+[NAME PB]Suporte para controle moderno
+[DESC PB]Este recurso permite que você jogue com<br>controles de jogo modernos.
+[NAME CT]現代手掣支援
+[DESC CT]允許玩家使用現代手掣進行遊戲
+[NAME HU]Modern kontroller támogatás
+[DESC HU]Ez a funkció lehetővé teszi, hogy modern kontrollerel játszon a játékos.
+[NAME ES]Soporte de controlador moderno
+[DESC ES]Esta función te permite jugar con los controladores de juegos modernos.
+[NAME CZ]Podpora moderních ovladačů
+[DESC CZ]Tato funkce vám umožňuje hrát hru s moderními herními ovladači.
+[NAME KO]최신 컨트롤러 지원
+[DESC KO]This feature allows you to play the game with modern game controllers.
+[DATE]SEP 1993
+[RES POINTS]420
+[PRICE]85000
+[DEV COSTS]48000
+[PIC]
+[GAMEPLAY]50
+[GRAPHIC]0
+[SOUND]0
+[TECH]100
+
+[ID]52
+[TYP]5
+[NAME EN]VR Helmet Support
+[NAME GE]VR Helm Support
+[NAME CH]VR虚拟现实技术
+[NAME TU]VR Başlık Desteği
+[DESC EN]Virtual Reality allows a completely new gaming experience.
+[DESC GE]Virtual Reality erlaubt eine völlig neue Spielerfahrung.
+[DESC CH]VR虚拟现实可以带来全新的游戏体验.
+[DESC TU]Sanal Gerçeklik, tamamen yeni bir oyun deneyimi sağlar.
+[NAME FR]Support Casque VR
+[DESC FR]La réalité virtuelle permet une toute nouvelle expérience de jeu très immersive.
+[NAME PB]Suporte para capacete VR
+[DESC PB]A realidade virtual permite uma<br>experiência de jogo completamente nova.
+[NAME CT]VR頭盔支援
+[DESC CT]VR頭盔允許全新的遊戲體驗
+[NAME HU]VR sisak támogatás
+[DESC HU]A virtuális valóság egy teljesen új játékélményt tesz lehetővé.
+[NAME ES]Soporte para casco VR
+[DESC ES]La realidad virtual permite una experiencia de juego completamente nueva.
+[NAME CZ]Podpora VR brýlí
+[DESC CZ]Virtuální realita představuje zcela nový herní zážitek.
+[NAME KO]VR 헬멧 지원
+[DESC KO]Virtual Reality allows a completely new gaming experience.
+[DATE]OCT 1994
+[RES POINTS]450
+[PRICE]90000
+[DEV COSTS]50000
+[PIC]
+[GAMEPLAY]60
+[GRAPHIC]0
+[SOUND]0
+[TECH]100
+
+[ID]53
+[TYP]5
+[NAME EN]Motion Controller Support
+[NAME GE]Motion-Controller Support
+[NAME CH]支持运动器材控制
+[NAME TU]Hareket Kontrolörü Desteği
+[DESC EN]This feature allows you to control<br>the game with motion controllers.
+[DESC GE]Dieses Feature erlaubt es,<br>das Spiel mit Motion-Controllern zu bedienen.
+[DESC CH]允许玩家<br>控制运动器材进行游戏.
+[DESC TU]Bu özellik, oyunu hareket kontrolcüleri ile<br> kontrol etmenizi sağlar.
+[NAME FR]Support Manette de Mouvement
+[DESC FR]Permet de contrôler<br>le jeu avec des manettes de mouvement.
+[NAME PB]Suporte para controle de movimento
+[DESC PB]Este recurso permite que você controle<br>o jogo com controles de movimento.
+[NAME CT]動作控制器支援
+[DESC CT]允許玩家使用動作控制器進行遊戲
+[NAME HU]Mozgásvezérlő támogatás
+[DESC HU]Ez a funkció lehetővé teszi a játék vezérlését mozgásvezérlőkkel.
+[NAME ES]Soporte de controlador de movimiento
+[DESC ES]Esta función le permite controlar<br>el juego con controladores de movimiento.
+[NAME CZ]Podpora pohybového ovladače
+[DESC CZ]Tato funkce umožňuje ovládat hru pomocí pohybových ovladačů.
+[NAME KO]모션 컨트롤러 지원
+[DESC KO]This feature allows you to control<br>the game with motion controllers.
+[DATE]FEB 2006
+[RES POINTS]740
+[PRICE]160000
+[DEV COSTS]80000
+[PIC]
+[GAMEPLAY]80
+[GRAPHIC]0
+[SOUND]0
+[TECH]200
+
+[ID]54
+[TYP]5
+[NAME EN]Instrument Support
+[NAME GE]Instrument-Support
+[NAME CH]支持音乐器材输入
+[NAME TU]Enstrüman Desteği
+[DESC EN]Input devices such as guitars or drums are<br>especially popular in music and rhythm games.
+[DESC GE]Besonders Musik- und Rhythmusspiele<br>profitieren vom Instrument-Support wie zum Beispiel<br>Gitarren oder Trommeln.
+[DESC CH]允许玩家使用吉他或其他音乐设备玩游戏<br>在音乐和节奏游戏中特别受欢迎.
+[DESC TU]Gitar veya davul gibi giriş cihazları, özellikle müzik ve ritim oyunlarında<br> popülerdir.
+[NAME FR]Support Instruments
+[DESC FR]Les périphériques d'entrée tels que les guitares ou les batteries sont<br>particulièrement populaire dans les jeux de musique et de rythme.
+[NAME PB]Suporte para instrumentos
+[DESC PB]Dispositivos de entrada, como guitarras ou bateria, são<br>especialmente populares em jogos de música e ritmo.
+[NAME CT]樂器支援
+[DESC CT]結他和鼓等樂器，<br>在音樂和節奏遊戲特別受歡迎
+[NAME HU]Hangszer támogatás
+[DESC HU]Az olyan beviteli eszközök, mint pl. a gitár vagy a dob, különösen népszerűek a zenei és ritmusjátékokban.
+[NAME ES]Soporte de instrumentos
+[DESC ES]Los dispositivos de entrada como guitarras o tambores<br>especialmente popular en juegos de música y ritmo.
+[NAME CZ]Podpora hudebních nástrojů
+[DESC CZ]Vstupní zařízení, jako jsou kytary nebo bicí, jsou obzvláště populární v hudebních a rytmických hrách.
+[NAME KO]악기 지원
+[DESC KO]Input devices such as guitars or drums are<br>especially popular in music and rhythm games.
+[DATE]DEC 2007
+[RES POINTS]760
+[PRICE]170000
+[DEV COSTS]82000
+[PIC]
+[GAMEPLAY]90
+[GRAPHIC]0
+[SOUND]0
+[TECH]200
+
+[ID]55
+[TYP]5
+[NAME EN]Motion Camera Support
+[NAME GE]Motion Camera Support
+[NAME CH]支持数码相机
+[NAME TU]Hareket Kamerası Desteği
+[DESC EN]This feature allows you to control<br>the game with your entire body.
+[DESC GE]Dieses Feature ermöglicht es<br>den gesamten Körper des Spielers<br>als "Input" zu verarbeiten.
+[DESC CH]允许玩家控制相机进行游戏<br>可以更好地全身心投入到游戏里.
+[DESC TU]Bu özellik, oyunu tüm vücudunuzla<br> kontrol etmenizi sağlar.
+[NAME FR]Support Caméra de Mouvement
+[DESC FR]Permet au joueur de contrôler le jeu avec tout son corps.
+[NAME PB]Suporte para câmera de movimento
+[DESC PB]Este recurso permite que você<br>controle o jogo com todo o seu corpo.
+[NAME CT]動作鏡頭支援
+[DESC CT]允許玩家使用整個身體進行遊戲
+[NAME HU]Mozgásérzékelő kamera támogatás
+[DESC HU]Ez a funkció lehetővé teszi a játék egész testével történő való irányítását.
+[NAME ES]Soporte de cámara de movimiento
+[DESC ES]Esta función le permite controlar<br>el juego con todo tu cuerpo.
+[NAME CZ]Podpora pohybových kamer
+[DESC CZ]Tato funkce umožňuje ovládat hru celým svým tělem.
+[NAME KO]모션 카메라 지원
+[DESC KO]This feature allows you to control<br>the game with your entire body.
+[DATE]JAN 2009
+[RES POINTS]800
+[PRICE]190000
+[DEV COSTS]88000
+[PIC]
+[GAMEPLAY]120
+[GRAPHIC]0
+[SOUND]0
+[TECH]200
+
+[ID]56
+[TYP]5
+[NAME RU]Поддержка тач-скрина
+[DESC RU]Эта опция позволит играть в игру<br>на устройствах с тач-скрином
+[NAME EN]Touch Screen Support
+[NAME GE]Touch-Screen Support
+[NAME CH]支持触屏
+[NAME TU]Dokunmatik Ekran Desteği
+[DESC EN]This feature allows you to control<br>the game via touch screen.
+[DESC GE]Dieses Feature erlaubt es,<br>das Spiel per Touch-Screen zu bedienen.
+[DESC CH]允许玩家使用<br>触摸屏进行游戏.
+[DESC TU]Bu özellik, oyunu dokunmatik ekran üzerinden kontrol etmenizi sağlar.
+[NAME FR]Support Ecran Tactile
+[DESC FR]Permet de contrôler le jeu via un écran tactile.
+[NAME PB]Suporte para toque na tela
+[DESC PB]Este recurso permite que você<br>controle o jogo pela tela com o toque.
+[NAME CT]輕觸式屏幕支援
+[DESC CT]允許玩家使用輕觸式屏幕進行遊戲
+[NAME HU]Érintőképernyős támogatás
+[DESC HU]Ez a funkció lehetővé teszi a játék vezérlését érintőképernyőn keresztül.
+[NAME ES]Soporte de pantalla táctil
+[DESC ES]Esta función le permite controlar<br>el juego a través de la pantalla táctil.
+[NAME CZ]Podpora dotykové obrazovky
+[DESC CZ]Tato funkce umožňuje ovládat <br> hru pomocí dotykové obrazovky.
+[NAME KO]터치 스크린 지원
+[DESC KO]This feature allows you to control<br>the game via touch screen.
+[DATE]JAN 2004
+[RES POINTS]750
+[PRICE]165000
+[DEV COSTS]81000
+[PIC]
+[GAMEPLAY]85
+[GRAPHIC]0
+[SOUND]0
+[TECH]200
+
+[EOF]
